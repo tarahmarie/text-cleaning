@@ -1,0 +1,3137 @@
+Dear Mr De Morgan Will you send on the
+enclosed to Mrs De Morgan. It explains the arrangements I have made in case she comes here,
+& also that Lord L & myself have delayed our own departure until Satdy next. Our household & children however are already gone.
+Now to mathematical business :
+I think you have hit the right
+nail on the head, altho’ my
+confused notion of Differentials was [46v] not the only piece of puzzle & mistiness which constituted the impediments towards my comprehension ofXdu +Ydu =U. Therectifi=
+dx dy
+=cation of this however, has I
+believe given me the key to the
+remaining difficulties. If you
+will be kind enough to read
+the [‘following’ crossed out] enclosed observations, you will be able to judge how
+far I now take a just view of the matter.
+I find that when (a long time ago) I studied Chapter V, I never gave due importance to the conclusion
+∆.u= du∆x1+ du∆x2+ du∆x3+&c dx1 dx2 dx3
++ {(∆x)2, (∆x1∆x2), &c, &c} deduced at the bottom of page 87,
+as the result of pages 86, 87. My [47r] whole attention was given to the subsequent theorem of page 90,
+“If u be a function of t in different
+ 
+“ways &c, &c”, which I con= =ceived to be the only object in view, & that the equation of page 87 was of no consequence in itself, but merely means to
+an end. This seems to have been an egregious blunder, since the whole theory of Differentials rests on the very part which
+I [‘comparatively’ inserted] neglected, from [‘fancying it’ inserted] a merely subsidiary theory. I believe I am not wrong
+in this present view of the
+matter.
+I cannot help here remarking
+a circumstance which I [‘believe’ crossed out] think is almost invariably true respecting
+all my difficulties & confusions
+in studying. They are without any
+[47v] exception that I can recal [sic], from misapprehension of the meaning
+of some symbol, or [‘of’ inserted] some phrase
+or definition ; & on no occasion
+from either any error in my
+reasoning, or [‘from’ inserted] any difficulty in
+carrying on [‘any’ crossed out] chains of deductions correctly, however complicated or
+profound or lengthy [‘these may be’ inserted]. I therefore have lately begun to ask myself,
+whenever I am stopped, whether
+I clearly understand what the
+subjects of the reasoning are ; &
+to go carefully over every verbal
+[something crossed out] & symbolic representative of a thing or an idea, with the
+question respecting each, “now what
+“does it mean, & how was it got?
+“Am I sure of this, in each instance
+“involved in the subject?” This
+may save me much future trouble.
+I will send you my remarks tomorrow, [vertical text on 46r] as I want to look over them once more
+           
+first ; & today I have had enough of these subjects.
+Yours very truly A.A.L
+
+[48r]
+Dear Mr De Morgan
+Ashley
+Sundy 13th Sepr
+I am very much
+obliged by your remarks & additions. I believe I now understand as much of the
+points in question as I am
+intended to understand at
+present. I am much inclined
+to agree with the paragraph
+in page 48 ; for though
+the conclusions must be
+[48v] admitted to be most perfectly correct & indisputable, logically speaking, yet there is a
+something intangible & a
+little unsatisfactory too, about
+the proposition.
+I expect to gain a good
+deal of new light, & to get
+a good lift, in studying
+from page 52 to 58 ;
+though probably I shall be
+a long time about this. I
+could wish I went on
+quicker. That is I wish
+a human head, or my head
+at all events, could take in
+[49r] a great deal more & a great deal more rapidly than is the
+case ; and if I had made
+my own head, I would
+have proportioned it’s [sic] wishes & ambition a little more to
+it’s [sic] capacity. When I sit down to study, I generally
+feel as if I could never
+be tired ; as if I could
+[1840] [added in pencil by later reader]
+   
+go on for ever. I say
+to myself constantly, “Now today I will get through so & so”;
+and it is very disappointing
+to find oneself after an
+hour or two quite wearied,
+& having accomplished perhaps [49v] about one twentieth part of one’s intentions, perhaps not that. When I compare
+the very little I do, with the
+very much the infinite I
+may say that there is to bedone; Icanonly
+hope that hereafter in some future state, we shall be
+cleverer than we are now.
+I am
+afraid I do not understand
+what you were kind enough
+to write about the Curve;
+and I think for this reason,
+that I do not know what
+[164r] the term equation to a curve means. Probably with some
+study, I should deduce that
+meaning myself ; but having
+plenty else to attend to of
+more immediate consequence,
+I do not like to give my
+time to a mere digression
+of this sort. I should
+much like at some future
+period, (when I have got
+rid of the common Algebra
+& Trigonometry which at
+present detain me), to
+attend particularly to this
+subject. At present, you
+[164v] will observe I have four
+distinct things to [something crossed out] carry on at the same
+  
+time ; the Algebra ;
+Trigonometry ; Chapter 2nd of the Differential Calculus ; & the
+mere practice in Differentiation.
+This last reminds me
+that my bookseller has at last & with much difficulty got me Peacock’s Book ; &
+I hope it will be of
+great use, for it’s [sic] cost is £2..12..6 ! It was originally 30s. It is
+[163r] coming here next week.
+By the bye I have a
+question to ask upon pages
+203 & 204 of the Algebra.
+In consequence of a reference
+to page 203, in the 9th line
+of the 25th page of the Trigonometry, I was induced
+to look & see what it
+related to. Reading on
+afterwards to the bottom of
+the page, I found
+“A functional equation is an “equation which is necessarily “true of a function or functions “for every value of the letter “which it contains. Thus if,
+[163v] “φx = ax, we have φ(bx) = “abx = b × φx, or
+“φ(bx) = bφx” “is always true when φx
+“means ax.”
+So far I think is clear ;
+but then what follows,
+“Thus &c
+“If φx = xα φα × φy = φ(αy)
+“ φx = ax . . . φx × φy = φ(x + y)
+“ φx=ax+b...φx−φy=x−y φx−φz x−z
+“ φx=ax φx+φy=φ(x+y)
+   
+I cannot trace the connection. I suppose there is something I have not understood, in the explanation of the Functional Equation.
+I hope before very long to have something further to send you upon Chapter 2nd
+of the Calculus, either of success or of enquiry.
+Has Mrs De Morgan returned yet, & how is Mr Frend?
+With many thanks, Yours very truly
+A. A. Lovelace
+
+[50r]
+Dear Mr De Morgan. I hope you have not by this time come to the conclusion that I have drowned the Differential Calculus at least (if not myself with it also) in the Seine or the Channel.
+I am setting about work again now in good
+[50v] earnest. To say the truth I find myself a little
+bit rusty & awkward.
+I have been some days
+getting my head in again,
+& it is not yet even
+at all what it was.
+However this will soon
+mend, I doubt not. I
+very easily lose a
+habit, but then I very
+easily re-form it. But
+I am a little vexed at
+this interruption. I was
+going on so nicely. I
+[51r] now write because I am in need of a little help
+from you. Some points
+from page 100 to page
+103 are not perfectly
+clear to me ; & as my
+head is not at this
+moment in it’s [sic] best working habits, I think instead of plaguing myself more about the misty
+parts, I had better
+apply to you ; for I
+St James’ Sqre Saturday Morning
+ 
+am inclined to get a
+little worried about it, [51v] which is always to be avoided.
+I should prefer seeing you to writing, on this occasion. I have at present no evening ; for tomorrow (Sundy) I happen to have some engagements at home.
+But I would suggest,
+(if it is not trespassing
+too much on your time
+& kindness) that I will
+send my carriage to
+bring you here on
+Tuesday Morning at 12 past [52r] eleven o’clock. I propose sending for you thus, in
+order to facilitate your coming. Or would you
+prefer instead that I
+should go to Gower St
+at that hour on Tuesdy?
+Will you tell
+Mrs De Morgan, with
+my kindest remembrances,
+that (if agreeable to her)
+I rather hope to be
+able to spend Sunday
+Evening (I mean tomorrow
+week) with her & you
+But my arrangements [‘for that time’ inserted] are not yet quite fixed ; so
+I am not sure yet
+what I shall be able
+to do.
+Pray believe me Yours very truly
+A. A. Lovelace
+   
+[54r]
+Dear Mr De Morgan. I
+send you a large packet
+of papers :
+1 : Some Remarks & Queries on
+the subjects of a portion of
+pages 75 & 76 (Differential Calculus) 2 : an Abstract of the demonstration of the Method of finding the
+nth Differential Co-efficient by
+means of the Formula
+Limit of ∆nu = u(n) (∆x)n
+[54v] 3 : Some objections & enquiries on the subjects of pages 83,
+84, 85.
+4 : Two enquiries on two
+Formulae in page[‘s’ crossed out] 35 of the “Elementary Illustrations”.
+In addition to all
+this, I have a word to
+say on two points in your
+last letter.
+Firstly : that θ is a function
+of a & h, (or in all cases
+a function of one at any
+rate of these quantities), is very clearly shown by you
+in reply to my question.
+But I still do not see exactly [55r] the use & aim of this fact being so particularly pointed out in the parenthesis at the top of page 80. It does
+not appear to me that
+the subsequent argument is
+at all affected by it.
+Secondly : I still am not satisfied about the Logarithms, I mean about the peculiarity
+St James’ Square Friday Morning
+  
+which constitutes a Naperian Logarithm in what I call
+the Geometrical Method,
+the method in your
+Number & Magnitude. I
+am [‘now’ inserted] satisfied of the following : that there is nothing in
+the Geometrical Method to
+[55v] lead to the precise determination
+of ε ; that ε is arrived
+at by other means, Algebraical
+means ; & then identified
+with the k on HL of the
+Geometrical Method. What
+constitutes a Naperian Logarithm
+in the Geometrical view, is
+“taking k so that x shall
+“expound 1 + x, or rather that
+“the smaller x is, the more
+“nearly shall x expound 1 + x.
+But in this definition there
+are two points that are still
+mistytome: Idonot
+see in what, (beyond the
+mere fact itself), these
+Logarithms differ from those
+[56r] in which x does not
+expound 1 + x. I cannot
+perceive how this one
+peculiarity in them, involves
+any others, or imparts to
+them any particular use,
+or simplicity, not belonging
+to other logarithms.
+Also, I do not comprehend
+the doubt implied as to
+the absolute theoretical strictly-mathematical existence
+of a construction in which
+x shall expound 1 + x.
+It appears to me that,
+whether practically with a
+       
+pair of good compasses, or
+theoretically with a pair of
+[56v] mental compasses, I can as
+easily as may be take any
+[diagram in original]
+line I please MQ greater than
+OK or V , measure their difference
+PQ which call x, then on
+OH (= OK) lay down a portion
+OM equal to this difference x
+(not that I pretend this is
+correctly done in my figure,
+which is only roughly inked
+down at the moment), &
+[‘finally’ inserted] stick up MQ on the point M. Then x expounds MQ or
+[57r] V +x, or 1+x. I can see
+no difficulty in accomplishing
+this, or any reason why these
+can be only an approximation
+to it. Neither do I very
+clearly perceive that the
+Base k would be
+necessarily influenced by this
+proceeding.
+In short I take the real
+truth to be that this view
+of Exponents being wholly new
+to me, there is some little
+link which has escaped me,
+or to which at any rate I
+have not given it’s [sic] due
+importance. But I think
+I have now fully explained
+[57v] what it is that I do not
+understand.
+Believe me
+Yours very truly A. A. Lovelace
+       
+[I think this is in fact a letter to Mrs. De Morgan. The reference in the letter to Mr. De Morgan is pretty clear evidence for this. As for the salutation, the ‘r’ of what appears to be ‘Mr’ curls back on itself very slightly, in a way that is suggestive of AAL’s way of writing ‘Mrs’. Compare what we find here with, for example, her ‘Mr’ in Box 170, fol. 54r, and the ‘Mrs’ in Box 171, fol. 5r. Other points to mention, although these are by no means conclusive, are that the letter is much chattier than her usual letters to ADM, and that the letter ends ‘Yours most sincerely’, which, based on a glance through the letters from Box 171, was AAL’s usual way of ending letters to Mrs. De Morgan — her standard sign-off to Mr. De Morgan seems to have been ‘Yours most truly’.]
+[58r]
+My Dear Mrs De Morgan
+I am very sorry
+indeed at the extremely
+dispiriting account you
+give of yourselves ; & also
+I am much disappointed
+at losing the pleasure
+of spending this evening
+with you. I was
+out when your note arrived,
+[58v] but I hear from the
+servants that it came
+just after half past four
+o’clock.
+Can I, (as far as you
+at present foresee), spend
+next Sunday Evening
+with you? I hope so,
+for I believe it will
+be my last [‘Sunday’ inserted] previous to going to Paris ; & I
+have no week-day evening
+disengaged to offer.
+[59r] Another of the little mathematical epochs, that are so interesting to me, has arrived ; I mean
+St James’ Square 6 o’clock
+Sunday Evening
+ 
+another Chapter of the Differential Calculus is
+just satisfactorily completed ; & I have a whole bundle
+of papers to submit to
+Mr De Morgan upon it,
+& one or two questions
+to ask on some trifling
+points in it that are
+not perfectly clear. But
+[59v] as it is not of a nature that immediately presses,
+all this may I think
+wait till I can come
+to you. Meantime I
+shall begin Chapter VI,
+on Integration &c.
+I have since I
+saw you had such a
+wonderful quantity of
+occupations of various
+sorts to get thro’, that
+I feel a little surprised
+how I have managed to
+[60r] [‘got thro” crossed out] accomplish, even this much of the mathematics.
+However I do not think
+anything will ever manage
+to oust the latter. Indeed
+the last fortnight is
+rather a convincing
+proof that nothing can.
+I have been out
+either to the Opera,
+German Opera, or
+somewhere or other, every night. I have had music-lessons every morning, [60v] & practised my Harp too for an hour or two ; &
+I have been on horseback nearly every day also. I
+ 
+might add many sundries & et-ceteras to this list.
+I must however maintain that the Differential Calculus is king of the company ; & may it ever be so !
+Believe me
+Yours most sincerely
+A. Ada Lovelace
+  
+[62r]
+Ashley-Combe
+10th Nov r
+Dear Mr De Morgan. The
+last fortnight has been spent
+in total idleness, mathematically at least ; for we have had
+company & been as they say gadding about. I must
+set too [sic] now & work up arrears. But I have a
+batch of questions & remarks
+to send.
+First — on Peacock’s Examples, which I have only now begun
+[62v] upon:
+What does he mean by adding
+d x to every solution? It
+appears to me a work of supererogation. I take the
+very first example in the
+book as an instance, and
+the same applies to all : Letu=ax3 +bx2 +cx+e:
+it’s [sic] differential, or du =
+= 3ax2dx + 2bx dx + cdx
+or (3ax2 + 2bx + c) dx.
+I should have written, & in
+fact did write : it’s [sic] differential or du = 3ax2 + 2bx + c.
+I suppose that this form
+[63r] is used under the supposition
+that x itself may be a
+function.
+My result & the book’s do
+not agree in one particular
+in the 9th example, page 2,
+& I am inclined to think
+it is a misprint in the
+latter : the Books says :
+Let u = x2(a + x)3(b − x)4
+du = {2ab − (6a − 5b)x − 9x2}x(a + x)2(b − x)3dx
+  
+and I say :
+du = {2ab − (6a − 5b)x − x2}x(a + x)2(b − x)3dx In case it may save you
+trouble, I enclose my working
+out of the whole.
+I do not the least understand
+[63v] the note in page 2. Not
+one of the three theorems it
+contains is intelligible to me.
+I conclude you to have the Book by you ; but if not I can copy out the note & send it to you.
+Secondly — to go to your
+Algebra : I think there is
+an evident erratum page 225,
+line 8 from the bottom, where
+x−1 x−1 x−2 1+x+ n+ n· n+&c
+should certainly be
+x−1 x−1 x−2 1+x+x n+x n· n+&c.
+I have a little difficulty
+in page 226, the last line,
+1−b x “= 1 ”.
+223
+223
+[64r] “let 1+b = 1+x which gives b =
+2x+1
+In the first place I do not
+feel satisfied that the form 1+b is capable of being
+1−b
+changed into the form
+1+x . There are three x
+suppositions we may make upon it , (supposing that it is capable of this second form) . x may be less
+than b, in which case
+the denominator must also
+be less than 1 − b, and less
+in a certain given proportion,
+in order that the Fractional [64v] Expression may remain the same. xmay=b,in
+which case the second form
+can only be true on the
+
+supposition that 1 − b = x = = b , or b = 12 .
+x may be greater than b,
+in which case the denominator of the second form must also be greater than 1 − b, in
+a certain given proportion, in order that the Fractional expression may remain the same.
+But secondly supposing 1+b 1−b
+to be under all circumstances [65r] susceptible of the form 1+x ,
+x
+the Binomial Theorem, was
+quite satisfactory to me, but
+I have some remarks to make
+on the second proof of it,
+pages 211 to 213. I think
+you well observe in the
+note page 213, that the two proofs supply each other’s deficiencies ; for I like neither
+of them taken singly.
+The latter one is what I
+should call rather cumbrous, especially the verification of
+φn × φm = φ(n + m) by
+[65v] actual multiplication in page 212, which is an exceedingly awkward & inconvenient
+process in my opinion.
+Then I am not at all sure that I like the assumption in the last paragraph of page 212.
+It seems to me somewhat
+a large one , & much
+more wanting of proof than many things which in
+  I cannot deduce from this equation b = 1 .
+2x+1 Your last letter, on
+
+Mathematics are rigorously & scrupulously demonstrated.
+But these inconsistencies
+have always struck me occasionally, and are perhaps only in reality the inconsistencies [66r] in a beginner’s mind , & which long experience &
+practice are requisite to do away with.
+The end of Euler’s proof, page 213, is not agreeable to me, and for this reason, that I cannot feel properly satisfied as yet with the little Chapter on Notation of Functions, and upon the full comprehension of this depends the force of the latter part of this proof.
+I do not know why it
+is exactly , but I feel I
+only half understand that
+[66v] little Chapter X , and it has already cost me more trouble with less effect than most
+things have . I must study
+it a little more I suppose.
+I hope soon I
+may be able to return to your Differential Calculus. At the same time , I never more felt the importance of not being in a hurry.
+I fancy great proficiency
+in Mathematical Studies is best attained by time ; constantly & continually doing a little . If this is so,
+surely then the University
+[67r] cramming system must be very prejudicial to a real
+  
+progress in the long run,
+particularly when one considers
+how very very little School-boys
+are [‘generally’ inserted] prepared on first going to the Universities, with
+anything like distinct
+mathematical or even
+arithmetical notions of the
+most elementary kind.
+I am now
+puzzling over the Composition of Ratios , but I hope in
+a day or two more I shall
+get successfully over that.
+It plagues me a good deal. [67v] I believe I thought some years ago, that I understood it ; but I am inclined to
+think I certainly never did.
+You see just at
+this moment I am full of unsatisfactory obstacles ; but
+I doubt not they will soon yield .
+With kindest remembrances to Mrs De Morgan , I am
+Yours very truly A. A. L
+I think there is an erratum
+in your Trigonometry, page 34, line 7 from the top :
+“let NOM = θ⊙, MOP = φ⊙ &c” should be ... NOP = φ⊙ &c
+  
+[68r]
+Ockham Park
+Ripley
+Surrey
+Friday . 17th Dec r [‘1840’ added in pencil by later reader]
+Dear Mr De Morgan. This
+is very mathematical weather. When one cannot exercise one’s muscles out of doors , one is peculiarly inclined to exercise one’s brains in-doors. Accordingly I have been
+setting vigorously to work again , with much satisfaction.
+But I am sorry to
+say that I am sadly obstinate
+[68v] about the Term at which
+Convergence begins for the
+Series (A) page 231 of Algebra,
+and which we thought had
+been made clear by you
+on Monday Evening . I must
+persist in thinking Convergence
+begins at x33 , 2.3.4....32.33
+and I have enclosed my Demonstration of my view of the case, & which seems to me as clear as possible.
+At any rate this will
+show you at once where my blunder is ; if I have
+blundered, for I can hardly
+think I have, so very palpable [69r] does the proof appear to me.
+The other night I had
+unluckily been 10 days or
+more without thinking about
+anything of the kind , and
+consequently the [‘whole’ inserted] thread of the argument was not present to
+me ; or I might have
+spared you & myself this
+   
+trouble now.
+I have thought with much pleasure of my agreeable evening on Monday , mathematical & educational.
+Yours most truly A. A. Lovelace
+[69v] [a child’s scribbling?]
+
+[70r]
+Tuesday. 22nd Dec r
+Dear Mr De Morgan I now see
+exactly my mistake. I had
+overlooked that the Series in
+question is not one in successive
+Powers of x [‘like that in page 185’ inserted], but only in successive even powers of x.
+I used once to regret these sort of errors, & to speak of
+time lost over them. But I
+have materially altered my
+mind on this subject. I often gain more from the discovery
+of a mistake of this sort, than from 10 acquisitions made at [70v] once & without any kind of difficulty.
+There is still one little thing in your Demonstration not perfectly clear to me. At the end
+you remark that “our result “gave the 503d Term instead of “the 502nd, which arose from “taking the whole number next
+“above 􏰏x + 14 instead of an
+“intermediate fraction.”
+In examining the equation
+n = next whole number above
+5 + 1􏰏1000,000+ 1 424
+I see clearly that 54 + 12 (1001) is greater than 5 + 1􏰏1000,000+ 1;
+Ockham
+     424
+that the true answer would be 5+1􏰊1000+1􏰋,1 beingsome
+42 aa
+[71r] fraction. We should then have
+ had,
+n = nearest whole number above
+
+5 + 500 + 1 , instead of = 4 2a
+= 45 + 500 + 12
+But, since 54 is greater than 1, the result must exceed 501 even if we neglected the 41 altogether; and therefore at any rate n
+(the next whole number above
+5 +1􏰏Z+1),mustbe502,& 424
+n + 1 consequently = 503 .
+I do not therefore see that the
+fact of taking 1001 instead of
+the real square part of Z + 14
+does account for the discrepancy
+in question .
+[71v] I have now some question to
+put respecting certain operations
+with Incommensurables. Thanks to
+your Treatise I think I understand
+[‘this subject’ inserted] pretty tolerably now. But there are still one or two points of
+Practical Application which I
+am [something crossed out] busy in working up previous to leaving the subject
+altogether as a direct study, &
+which I find not quite plain
+sailing.
+I have been writing out in
+the Mathematical Scrap-Book,
+a full explanation of the
+operations with Incommensurables
+analogous to those of Multiplication,
+Division, Raising of Powers &c,
+and a day or two ago I was
+[72r] about completing it with that
+analogous to the extraction of
+Roots, when I found I did
+not fully understand the
+process, that is beyond the
+consideration of one Mean
+Proportional. I have written
+out & enclose my explanation
+for one Mean Proportional,
+      
+& my difficulty in the case
+of two or more Mean Proportionals.
+Also, I wished now to return
+to the passage, page 29, lines 8
+and 9 from the top, (Trigonometry) which first suggested to me the necessity of studying the subject
+of Incommensurables; in order
+that I might see if I could
+[72v] now demonstrate the Proposition
+of (46), for θ and sin θ Incom=
+=mensurable quantities. But I do
+not find that I can. I believe
+I understand the example referred
+to in (4), the long & short
+of which I understand to be
+that if in the Right-Angled
+Triangle [diagram in original] A, B, C are
+Incommensurables, and V be any
+given linear unit, then the
+RatiocompoundedofA:V andA:V
+added to the Ratio compounded of
+B:V &B:V,isequaltothe
+Ratio compounded of C : V and
+C:V.
+With respect to the Ratio of an
+Angle with it’s [sic] Sine, I began to
+[73r] write it out as follows, after the
+manner of pages 68 & 69 of the
+Number & Magnitude:
+θorθ:1istheRatioof AB AO
+sinθorsinθ:1istheRatioof BM,
+AB : AO, BM : AO being
+Incommensurable Ratios, what
+then does θ really mean? sin θ
+In the first place we may consider it to mean
+θ 1 :1,oraRatio sin θ
+ compounded of the Ratio θ : 1 and 1 , or compounded of the
+sin θ
+Ratios AB : AO and AO : BM.
+AO
+
+But further than this I cannot get, nor see my way at all.
+I conclude that in Incommensurable language, a Ratio equal to 1 or
+a Ratio approximately to 1 can
+[73v] only mean a Ratio in which
+the Magnitude constituting the Antecedent is equal to the
+Magnitude constituting the Consequent, or is constantly approaching an equality to it,
+and therefore that if we take
+the above Ratio compounded
+of AB : AO and AO : BM, or
+the Ratio AB : BM, & prove
+that AB constantly approaches
+in equality to BM, that is the
+desired Demonstration.
+I can only end by repeating
+what I have often said before,
+that I am very troublesome,
+& only wish I could do you
+any such service as you are
+doing me. Yours most truly
+A. A. L
+        
+[74r]
+Monday. 4th Jan y [‘1841’ added by later reader]
+Ockham
+Dear Mr De Morgan. We have had company ever since I
+last wrote to you, so I have been at a Stand-still, &
+only yesterday was able to
+read over with attention your replies. I am reluctant to trouble you again with remarks
+ontheSeries1+x2 + x4 +&c, 2 2.3.4
+for it seems as if I was determined to plague you
+about it. However I feel I
+must do so. Your added
+[74v] remarks of last time, about B &c, are quite clear in themselves, but I felt at
+once that they did not
+meet my difficulty which
+was that as long as 45
+(which is greater than 1) is to
+be added to 1􏰏1000,000+ 1, 24
+it matters not whether for
+􏰏1000,000+14 wesubstitute
+the whole number next above
+it or “the intermediate fraction” alluded to by you in the line √ I have marked [mark a bit like her ‘ never can bring out n = to
+anything less than 502, whence
+n + 1 the required term must
+[75r] be 503. This, after reading
+over & over, remains in my
+mind a most obstinate fact,
+and I believe I have found
+out the real source of the
+discrepancy between the result
+at the bottom of the first
+page & the top of the Second
+’], but we
+   
+one. I am presumptuous
+enough to think there is
+certainly an error in your
+writing out, in the line I
+have marked X, & it is one
+which is very likely to have
+occurred in writing [‘it’ crossed out] in a hurry.
+The (n + 1)th term divided by
+the nth is I believe not
+[75v] Z ,but Z , (2n−2)(2n−3) 2n(2n−1)
+and I have re-written & now
+enclose the rest of the demonstration (exactly like yours) with this correction. The result comes
+out as I expected, owing to
+41 taking the place of 54 ,
+& everything appears to me
+consistent. the nth term
+divided by the (n − 1)th term
+would be, (as you have
+written) Z , & this (2n−2)(2n−3)
+correction would do instead of
+the others, & be perhaps [‘a’ inserted] more simple mode of making it,
+as your demonstration would
+[76r] then remain correct, the nth
+term being in that case the
+required unknown one instead
+of the (n + 1)th.
+I am afraid all this is a
+little complicated to explain
+in letters, & perhaps I have
+still not succeeded very
+perfectly in doing so; but
+I feel it now all very
+clear in my own mind,
+& am only anxious to receive
+confirmation as to my being
+right, both as satisfactory
+to me in the present instance,
+& as tending to give me
+    
+[76v] confidence in future in my own conclusions, or, (if I am in this case puzzle- -headed), a due diffidence of them.
+I therefore beg your indulgence for being so teasing.
+Believe me
+Yours most truly A. A. Lovelace
+ 
+[77r]
+Sunday. 10th Jan y
+Dear Mr De Morgan. I send
+you the [‘Series’ crossed out] Analysis of the new Series I received in your
+letter yesterday morning. I
+believe I have made it out
+quite correctly. In fact, the
+Verification at the end proves
+this. But, owing to a
+carelessness in my [‘first’ inserted] inspection of it, I have had the
+trouble & advantage of analysing
+two Series. I glanced too
+hastily at it, & did not
+observe that the factors of the
+[77v] Denominators (of the Co-efficients), are not powers of 2, but
+simply multiples of 2.
+If you will open my Sheet,
+you will find on the inside
+my analysis of the Series I at
+first mistook your’s [sic] for;
+and I am not sorry this
+has happened. I believe
+both are correctly made out.
+You kindly request me
+if I do not understand the
+erasure in the former [‘small’ inserted] paper, again to return it &c. Now
+I do not agree to it; & [‘I’ inserted] still fancy that we are in fact
+meaning exactly the same
+thing, only that you are
+[78r] speaking of the nth Term, & I
+of the n + 1th. For
+convenience of reference I again
+return the former large paper
+(& at any rate H. M’s
+Post-Office will benefit).
+I quite understand that
+Ockham
+ 
+1 +1􏰏106 +1 +aislessthan 424
+501. Therefore as n is
+the next whole number above
+this fractional expression, x =
+= 501. But n is not the
+Term sought; the unknown
+term to be determined being
+by the conditions of the
+Hypothesis & Demonstrations,
+n + 1, & therefore = 502.
+And if you will examine
+[78v] your own [‘former’ inserted] Verification, you will see that you there
+determine the Term at which
+Convergence begins, to be
+A502, or the 502nd Term,
+which agrees with my
+result n + 1 = 502.
+I think it is quite clear
+that we are both agreed,
+but that you were not aware
+at the moment you made
+the erasure that I was
+not speaking of the next
+wholenumber above1+1􏰏106+1+a 424
+but of the next but one above it.
+So much for the three Series:
+Now I must go to other
+[79r] matters. I am indeed sending you a Budget.
+I have been working hard
+at the Differential Calculus,
+& am putting together some remarks upon Differential Co-efficients (which in due
+time will travel up to
+Town for your approbation),
+but in the progress of which
+I am interrupted by a
+slight objection to an old
+       
+matter of Demonstration,
+which did not occur to me
+at the time I was studying
+it before, & sent you a
+paper upon it [‘from Ashley’ inserted]. In the course of the observations I
+[79v] am now writing, I have [‘had’ inserted] occasion to refer to the old
+[‘general’ inserted] Demonstration, (pages 46 & 47 of your Differential Calculus),
+as to the finite existence of
+a Differential Co-efficient
+for all Functions of x; &
+a slight flaw, or rather what appears to me a flaw, in the conclusions drawn, has occurred to me. It is most clearly
+proved that, θ being supposed to diminish without limit,
+the Fractions Q1, Q2 &c
+must have finite limit, for
+some value or other at all events of nθ or h. But the fractions in question do not [80r] appear to me to be strictly speaking analogous to ∆u ,
+ ∆x
+except the first of them φ(a+θ)−φa
+ θ
+and the last of them φ(a+nθ)−φ(a+n−1θ) ,
+ and for this reason.
+In the expansion ∆u or
+θ
+∆x φ(x+θ)−φx , as θ alters
+ θ
+x does not alter, but remains
+the same. In these fractions
+on the contrary, which all have the form φ(a+kθ)−φ(a+k−1θ)
+θ
+and in which a + k − 1θ [bar over k − 1 should have little downward-pointing hooks at the ends]
+stands for the x of the
+expression ∆u or φ(x+θ)−φx,
+∆x θ not only does θ alter, but
+from the conditions of the
+  
+Hypothesis & Demonstrations, k − 1θ [80v] & consequently a + k − 1 θ must likewise alter along with θ.
+There is therefore a double
+alteration in value going on
+simultaneously, which appears
+to me to make the Case quite
+a different one from that
+of ∆u , & consequently to ∆x
+invalidate all conclusions deduced from the former with respect to the latter.
+The validity of the Conclusions with respect to the fractions Q1, Q2 &c, you understand
+I do not question. What I question is the analogy between these Fractions & the Fraction
+∆u or φ(x+θ)−φx [‘of’ inserted] which ∆x θ
+[81r] latter it is required to investigate the Limits.
+I also have another slight objection to make, not to the extent of Conclusions established respecting the Fractions Q1, Q2 &c having finite limits,
+but to the Conclusions on that point not going far enough,
+not going as far as they
+might : “either these are
+“finite limits, or some increase “without limit and the rest “diminish without limit ; if the “latter, we shall have two “contiguous fractions, one of which “is as small as we please, and
+“the other as great as we please, “&c, &c, a phenomenon which “which [sic] can only be true when [81v] “Qk is the fraction which is “near to some singular value
+“of the Fraction, & cannot be
+      
+“true of ordinary & calculable “values of it &c.” Now it appears to me that in no possible case could such a phenomenon as this be true, when we consider how the fractions are successively formed one out of the others by the substitution of a + θ for a, θ too being as small as
+we please. I therefore think
+it might have been concluded
+at once that there must
+always be finite limits to
+the Fractions Q1, Q2 &c,
+[82r] and this whatever k or nθ
+may be. I suppose it is not
+so, but I cannot conceive
+the Case in which it could
+be otherwise.
+I do not know if in writing
+upon my two difficulties in
+these pages 46, 47, 48, I have
+expressed my objections (especially
+in the former case of the
+fractions Q1, Q2 not being
+similar to ∆u ) with the ∆x
+clearness necessary to enable
+you to answer them, or indeed
+to apprehend the precise points
+which I dispute. It is not
+always easy to write upon
+these things, & at best one
+must be lengthy. I shall be
+[82v] exceedingly obliged if you will also tell [‘me’ inserted] whether a little Demonstration I enclose as to
+the Differential Co-efficient
+of xn, is valid. It appears
+to me perfectly so; & if it is,
+I think I prefer it to your’s [sic]
+in page 55. It strikes me
+   
+as having the advantage in
+simplicity, & in referring to
+fewer [‘requisite’ inserted] previous Propositions.
+I have another
+enquiry to make, respecting something that has lately occurred to me as to the Demonstration of the Logarithmic & Exponential Series in
+your Algebra, but the real
+truth is I am quite ashamed
+[83r] to send any more; so will
+at least defer this.
+I am afraid you will indeed
+say that the office of my mathematical Counsellor or Prime-Minister, is no joke.
+I am much pleased to
+find how very well I stand work, & how my powers of attention & continued effort increase. I am never so happy as when I am
+really engaged in good earnest; & it makes me most wonderfully cheerful & merry at other times, which is curious & very satisfactory.
+What will you say when [83v] you open this packet? Pray do not be very angry, & exclaim that it really is too bad.
+Yours most truly A. A. Lovelace
+    
+[84r]
+Sunday. 17th Jan y
+Dear Mr De Morgan. Many thanks for your reply to my enquiries. I believe I now
+understand about the limit of φ(x+nθ+θ)−φ(x+nθ) not
+θ
+being affected by nθ being a
+gradually varying quantity.
+I think your explanation of
+it amounts to this : that
+provided [something crossed out] (x + nθ) varies only towards a fixed limit, either
+of increase or diminution ; then
+[84v] the result of the Subtraction
+of φ(x+nθ) from φ(x+nθ+θ)
+remains just the same as if,
+(calling (x + nθ) = Z), Z were
+a fixed quantity. Now
+by the conditions of the Demonstration
+in question, (in your pages
+46 & 47), when a decrease
+takes place in θ, a certain
+simultaneous increase takes
+place in n. That is to
+say, suppose θ has at any
+one moment a certain value
+corresponding to which n has
+the value k. If I alter
+θ to a lesser value χ, then
+say that the corresponding
+[85r] value of n, necessary to fulfil
+the constant condition nθ = h,
+is not k, but k + m = p.
+What happens now? Why
+as follows, I believe : there
+were, before θ became χ,
+k fractions ; there are now
+k + m, or p fractions.
+In [‘each of’ inserted] the k former fractions, [something crossed out] Z will
+Ockham
+      
+have diminished, towards a
+fixed limit [‘of diminution’ inserted] x ; in [‘each of’ inserted] the m new fractions introduced, Z
+will be greater than in the
+old k fractions ; but there
+is a fixed limit of increase,
+h, which it can never pass,
+[85v] up to the very last Term
+of the Series of Fractions.
+Therefore tho’ the quantity
+x + nθ or Z varies necessarily
+with a variation in the value
+of θ, yet it varies within
+fixed limits either of
+diminution or increase, & thus
+the result of the subtraction
+φ(Z +θ)−φ(Z) is not
+affected.
+I hope I have made
+myself clear. I think it is
+now distinct & consistent in
+my head.
+I see that my proof of
+the limit for the function xn
+is a piece of circular argument, [86r] containing the enquiry which I was in fact aiming at
+in the former paper, but
+which required to be
+separated from the confusion attendant on my erroneous statements on other points.
+I merely return the old
+paper with the present one, because it might perhaps be convenient to compare them.
+On the other side
+of the sheet containing the
+remarks on aθ−1, you θ
+will find an enquiry which struck me lately quite by accident in
+   
+[86v] referring to some old matters.
+I ought to make many apologies I am sure for
+this most abundant
+budget. I am very
+anxious about the matter
+of the successive Differential Co-efficients, & their finiteness & continuity. I think it troubles my
+mind more than any
+obstacles generally do. I
+have a sort of feeling
+that I ought to have understood it before, &
+[87r] that it is not a legitimate difficulty.
+With many thanks, Yours most truly
+A. A. Lovelace
+ 
+[88r]
+Ockham
+Friday 22nd Jany
+[‘1841’ added by later reader]
+Dear Mr De Morgan. Then I shall be in Gower St on Monday Evening about 8 o’clock. Lord L is not
+afraid of Algebra, but he goes up on business that will occupy all his evenings, viz : Lord Melbourne’s dinner, & the House of Lords. I feel as if I
+[88v] had a great deal to say & to talk about;
+& by the bye one thing, unmathematical, is about a visit sometime from Mrs De Morgan ; because it strikes me that your lectures need not always tie her down too.
+Lord L desires me to say he regrets not being able to accompany me.
+Yours very truly A. A. Lovelace
+
+[88r]
+Ockham
+Friday 22nd Jany
+[‘1841’ added by later reader]
+Dear Mr De Morgan. Then I shall be in Gower St on Monday Evening about 8 o’clock. Lord L is not
+afraid of Algebra, but he goes up on business that will occupy all his evenings, viz : Lord Melbourne’s dinner, & the House of Lords. I feel as if I
+[88v] had a great deal to say & to talk about;
+& by the bye one thing, unmathematical, is about a visit sometime from Mrs De Morgan ; because it strikes me that your lectures need not always tie her down too.
+Lord L desires me to say he regrets not being able to accompany me.
+Yours very truly A. A. Lovelace
+
+[89r]
+[Signature written sideways at the top of this page — belongs at end of letter so transcribed there]
+Ockham Weddy 3d Feby
+Dear Mr De Morgan. I have a question to put respecting a condition in the establishment of the
+conclusion
+φ(a+h) = φ(n+1)(a+θh) in ψ(a+h) ψ(n+1)(a+θh)
+page 69 of the Differential Calculus. I have written down, & enclose, my notions on the steps of the reasoning used to establish that
+[89v] conclusion. So that you may judge if I take in
+the objects & methods of it.
+The point I do not understand, is why the distinction is made, (&
+evidently considered so important a one), of “ψx
+“being a function which has “the property of always “increasing or always decreasing, “from x = a to x = a + h,
+“in other respects fulfilling the “conditions of continuity in “the same manner as φx”.
+[90r] For this, see page 68, lines 9, 10, 11, 12 from the top ; page 68, line 12 from the bottom ;
+page 69, lines 7, 8 from the bottom ; &c
+I see perfectly that this condition must exist, & that without it we could not secure the denominators
+     
+(alluded to in page 68, line
+13 from the bottom), being
+all of one sign.
+But what I do not
+understand, is [something crossed out] why the condition is not made
+[90v] for φ x also. It appears to me to be equally requisite for this latter ; because if
+we do not suppose it,
+how can we secure the
+numerators φ(x + k∆x)−
+−φ(x + k − 1∆x) being all
+of one sign ; & unless they
+are all of one sign, we
+cannot be sure that they
+will [something crossed out] when added, so destroy one another as to
+give us φ(a+h)−φa ;
+an expression essential to obtain. I think I have explained my difficulty, &
+[something missing here?]
+[the following written vertically on 89r]
+believe me
+Yours most truly
+A. A. Lovelace
+ 
+[beginning of letter seems to be missing] [91r] (unless the limit for vn−wn
+v−w
+is dispensed with in the
+demonstration for the Binomial
+Theorem, which it is not
+in your Algebra, nor am
+I aware that it can be
+dispensed with in any of the
+elementary proofs of that
+Theorem). It had not
+struck me that, calling
+(x + θ) = v, the form
+(x+θ)n−xn becomes vn−xn . θ v−x
+And by the bye, I may
+here remark that the curious
+transformations many formulae
+can undergo, the unexpected
+& to a beginner apparently
+[91v] impossible identity of forms
+exceedingly dissimilar at first
+sight, is I think one of
+the chief difficulties in the
+early part of mathematical
+studies. I am often reminded
+of certain sprites & fairies
+one reads of, who are at
+one’s elbow in one shape
+now, & the next minute in
+a form the most dissimilar,
+and uncommonly deceptive,
+troublesome & tantalizing are
+the mathematical sprites &
+fairies sometimes ; like the
+types I have found for them
+in the world of Fiction.
+[92r] I will now go to the question
+I delayed asking before :
+In the development of the
+Exponential Series
+ax = 1+(loga)x+ (loga)2x2 + &c, 2
+and the Logarithmic Series
+log a = (a − 1) − 21 (a − 1)2+ &c
+       
+deduced from it ; I object
+to the necessity involved of
+supposing x to be diminished
+without limit, a supposition
+[‘obviously’ inserted] quite necessary to the completion of the Demonstration. It has
+struck me that though this
+supposition leaves the Demonstration
+& Conclusions perfect for the
+cases in which x is supposed
+to diminish without limit, yet
+[92v] it makes it valueless for the
+many in which x may be
+anything else which does not
+diminish. No by the bye,
+I think I begin to see it now ;
+IamsureIdo. Itisas
+follows : the supposition of
+x diminishing without limit
+is merely a parenthetical
+one, by means of which a
+limit for a certain expression
+ax−1 is deduced under those x
+circumstances ; & then the
+argument proceeds, that having
+already obtained in another
+place, a [‘different’ inserted] limit for this same expression under the same
+[93r] circumstances, we at once deduce the equality of these two limits, from whence follows
+&c, &c. Thus this supposition of x diminishing without limit, is not a portion of the main argument, but only a totally independent & parenthetical hypothesis introduced in order to prove something else which
+is a part of the main argument. Yes this is it, I am sure. I had
+had the same objection to
+        
+the Demonstration in Bourdon,
+to which I have had the
+curiosity to refer. I am
+[93v] sometimes very much interested in seeing how the same
+conclusions are arrived at
+in different ways by different people ; and I happen to
+have been inclined to compare
+you & Bourdon in this
+case of developing Exponential
+& Logarithmic Series ; and
+very amusing has it been to
+me to see him begin exactly
+where you end, &c. Your demonstration is much the
+best for practical purposes.
+His is exceedingly general, &
+the vast number of substitutions [94r] of one thing for another make it lengthy, & by no means very simple to follow. But it
+is very well occasionally to
+make these comparisons.
+We are going to
+Town on Monday the 25th,
+for two or three nights, &
+I will ask Mrs De Morgan’s
+& your permission to spend
+Monday Evening with you,
+going towards 8 o’clock,
+as I did before. It would
+give me great pleasure, &
+may perhaps be not only
+agreeable to me, but of use
+[94v] too, as there are one or two
+points [something crossed out] relating to my future plans which I rather think of
+speaking to you upon.
+By the bye, Lord Lovelace & I are both of us much vexed, at our own
+   
+negligence in letting the Xmas Vacation go bye [sic], without proposing to you & your
+lady & children to visit us
+here, which you might
+perhaps have been able to do during Holiday-time. I fear
+you may now be unable to
+think of it ; but pray consider [95r] the question with her ; if not for any immediate use, at
+any rate for the next occasion. The fact is, that we have
+so much the habit of thinking of you only in connexion
+with Town & engagements there, that it only suddenly occurred to us whether you might not
+be able to breathe country
+air like other people.
+You would come by Railway, & we would send the carriage to the Station for you.
+Yours most truly A. A. L
+
+[96r]
+Dear Mr De Morgan. Had I waited a day or two longer,
+I need not have troubled
+you with my letter of Weddy, & I can only reproach
+myself now with having been
+a little too hasty in my examination of the Theorem in pages 68, 69, and having
+sent you an enquiry which
+certainly indicates some
+negligence. I fear this letter
+[96v] may not be in time to
+stop one from you. [something crossed out] However I will try to
+send it by an opportunity this afternoon.
+But, to show you that I
+now understand the matter completely :
+In the first place the question
+of the Denominator, or the
+Numerator, being all of the
+same sign, in such [something crossed out] collection of
+expressions as
+a−b , c−a , d−c, e−d &c
+m−n p−m r−p q−r
+has nothing whatever to do
+with the letters effacing each
+other when the above are
+[97r] put into the form, (a−b)+(c−a)+(d−c)+(e−d) &c ;
+(m−n)+(p−m)+(r−p)+(q−r)
+whether (a − b), &c be positive or negative, or some one &
+some the other, still a−b+c−a+d−c+e−d &c
+Ockham Satdy 6th Feby
+[‘1841’ added by later reader]
+    m−n+p−m+r−p+q−r must = e−b
+q−n
+In the second place, the
+
+Denominator must be all of the same sign, in order
+to fulfil the conditions of the Lemma in page 48 ;
+& this is the reason why
+the condition is made respectively ψ x always increasing or
+[97v] always decreasing &c.
+For φ x, it matters not
+whether it alternately increases
+& decreases (provided always that it be continuous).
+I believe I now
+have the whole quite clear;
+& I shall be more careful
+in future.
+I enclose a paper upon
+pages 70, 71, 72, 73.
+It is merely the general argument, put into my own order & from ; & I send
+it in order to know if
+you think I understand as much about the matter as [98r] I am intended to do.
+You know I always have
+so many metaphysical enquiries & speculations which intrude themselves, that I never am really satisfied
+that I understand anything ; because, understand it as
+well as I may, my comprehension can only be
+an infinitesimal fraction of
+all I want to understand
+about the many connexions
+& relations which occur to
+me, how the matter in question was first thought of [98v] or arrived at, &c, &c.
+I am particularly curious
+   
+about this wonderful Theorem. However I try to keep
+my metaphysical head in order, & to remember Locke’s two axioms.
+You should receive this about 6 o’clock this evening, if not before. I fear you will
+have written to me today however. Believe me
+Yours most truly A. A. Lovelace
+
+[100r]
+Ockham Park Friday. 19th Feby
+Dear Mr De Morgan. I have one or two
+queries to make respecting the “Calculus of Finite Differences” up to page 82.
+Page 80, line 4 from the top, “remembering . . . . “.... that in φ′′(x+θω), θ itself is a function “of x and ω, &c” ; Now, neither on examining
+θ as here used & introduced, nor on
+referring to the first rise & origin of θ in
+this capacity, (see page 69), can I discover
+that it is a function of x and ω here, or
+a function of the analogous a and h in
+page 69. I neither see the truth of this assertion, nor do I perceive the importance
+of it (supposing it is true) to the rest of
+the argument & demonstration in page 80.
+There is also a point of doubt I have
+relating to the conclusion in lines 15, 16 from [100v] the top of page 79 :
+It is very clear that the law for the Co-efficients being proved for un, and for ∆un, follows immediately & easily for un+1, or un + ∆un.
+But if we now wish to establish it for un+2, we must prove it true not only for un+1, but also for ∆un+1 :
+To retrace from the beginning : the
+object in the first half of page 79 evidently
+is to prove firstly, that any order of u,
+say un can be expressed in term [‘of,’ inserted] or in a Series of all the Differences of u ; ∆u,
+∆2u, ∆3u, ........... ∆nu ;
+Secondly, that the Co-efficients for this Series follow the law of those in the Binomial Theorem.
+Now the first part is evident from the
+law of formulation of the Table of Differences ; Since all the Differences ∆u, ∆2u, ∆3u &c aremadeoutofu,u1,u2 &c,itis
+obvious that by exactly retracing & reversing the process, we can make u, u1, u2 &c
+[101r] out of ∆u, ∆2u, ∆3u &c.
+   
+For the second part of the above ; if we
+can [something crossed out] show that the law for the Co-efficients holds good up to a certain point, say u4 ;
+and also that being true for any one
+value, it must be true [something crossed out] for the next
+value too ; the demonstration is effected for
+all values :
+Now the fact is shown that it is true up
+to u4. (I must not here enquire why the
+fact is so. That is I suppose not your
+arranging, or any part of your affairs).
+It is shown that the two parts u3, ∆u3 of
+which u4 is made up are under this law,
+& therefore that u4 is so. And next it is
+shown that any other two parts un, ∆un
+being under this law, their sum un+1
+must be so. But this proves nothing
+for a continued succession. un+1 being
+under this law does not prove that ∆un+1
+is under it, & therefore that un+2 is under it.
+[101v] There seems to me to be a step or condition
+omitted.
+I am sorry still to be obliged to trouble
+you about f x, f′x, f′′x, I cannot yet
+agree to the assertion that the result would
+not be affected by discontinuity or singularity
+in f′x, f′′x, &c. The result it is true
+would not be directly affected ; but it surely
+would be [‘indirectly’ inserted] affected, inasmuch as the conditions of page 69, necessary to prove that result,
+could not be fulfilled unless we suppose
+f′x, f′′x .. . . . f(n+1)x continuous &
+ordinary as well as f x. To arrive at the equation φ(a+h) = φ(n+1)(a+θh) ψ(a+h) ψ(n+1)(a+θh)
+page 69, it is a necessary condition that
+φx, φ′x, φ′′x ......... φ(n+1)x be all
+continuous & without singularity from x = a to x=a+h. Andtheφ′x,φ′′x.....φ(n)x,φ(n+1)x of page 71, could not fulfil this condition
+unless f′x, f′′x .. . . . f(n)x, f(n+1)x did so
+[102r] also. I fear I am very troublesome about this.
+     
+I have remarks to make respecting some of
+the conclusions of the Chapter on Algebraical Development ; but they will keep, and
+therefore I will delay them, as I think
+I have send abundance, & I have also
+some questions to put on the last 8 pages
+of your “Number & Magnitude” on Logarithms.
+On the Differential Calculus I will only
+now further say that on the whole I believe
+I go on pretty well with it ; and that
+I suppose I understand as much about it,
+[something crossed out] as I am intended to do ;
+possibly more, for I spare no pains to do
+so.
+Now for the Logarithms : I had not till now
+read the last pages of your Number & Magnitude,
+& there are certain points I do not fully
+understand. The last line of the whole, on
+the natural logarithms is one. I cannot
+[102v] identify the constituent quality of the natural
+logarithms there given, with the constituent
+qualities I am already acquainted with thro’
+other relations & means : I know [‘for instance’ inserted] that the natural logarithms must have 2.717281828
+for their Base ; that is to say that the
+line HL, or A (OK, or V being the linear
+unit) should be 2.717281828 V units.
+Now I do not see [‘but’ inserted] that the condition in the
+last paragraph of the book is one that
+might perfectly consist with any Base whatever.
+To prove that I understand
+the previous part, at least to a considerable degree, I enclose a Demonstration I wrote out of the property to be deduced by the Student, (see second paragraph of page 79), & which I believe is quite correct.
+Pray of what use is the Theorem
+(page 75, [‘& which’ inserted] continues in page 76)? I do not see that it is subservient to anything that
+[103r] follows ; and it appears to me, to say the
+truth, to be rather a useless & cumbersome
+addition to a subject already sufficiently
+    
+complicated & cumbersome. The passage I mean is from line 13 (from the top) page 75, to the middle of page 76.
+Believe me
+Yours very truly A. A. Lovelace
+
+[104r]
+Ockham Monday. 22nd Feby
+Dear Mr De Morgan. The reply to one of my queries to you, dispatched on Friday, has I believe just occurred to me. Probably
+this letter will cross one from you tonight, but the remaining points continue still unsolved, so that I shall be equally glad
+if I do receive an answer tomorrow morning.
+The difficulty I have solved is
+the one relating to the law for the Co-efficients
+of [‘the series for’ inserted] ∆un. I remarked that the law for the
+Co-efficients of the Series for un being
+ascertained, did not ascertain those for ∆un
+as a necessary consequence. But I see I am
+wrong. If a Series is obtained for un,
+[104v–105r] we have only in order to obtain one for
+∆un, to take the Difference of every term
+[‘of the’ crossed out] , (that is of the variable part of every
+term), of the Series for un. Thus,
+un being=u+n∆u+nn−1∆2u+····+nn1∆n−2u+n∆n−1u+∆nu 22
+∆un must = ∆u+∆(n∆u)+∆􏰊nn−1∆2u􏰋+···+∆􏰊nn−1∆n−2u􏰋+∆(n∆n−1u)+∆(∆nu) 22
+= ∆u + n∆2 u + n n−1 ∆3 u + · · · + n n−1 ∆n−1 u + n∆n u + ∆n+1 u 22
+Whence &c, &c. I think this is quite sufficiently obvious.
+But I now have another query to put, in the place of the one I have just disposed of, relating to the development in page 83,
+∆u=amxm−1 +Axm−2 +·····+Px+Q andinwhichIcannothelpthinkingthereisamistake[‘inthefirstTerm’inserted]: Imake out that
+it ought to be
+∆u=amωxm−1 +Axm−2 +····
+But I enclose my developments and observations therefore, on a longer & more convenient sheet. I will only add here, that we move to Town on
+Thursday; and that I should much like to spend Sunday Evening with
+Mrs De Morgan & you, if this arrangement is suitable & agreeable to you. I [105v] should arrive as usual, about 8 o’clock
+I believe I shall have by the end of this
+week several papers ready to discuss.
+You see I do not waste my time, at
+any rate; and I only hope that I am
+  
+not the means of wasting yours either. Believe me
+Yours very truly A. A. Lovelace
+
+[106r]
+Dear Mr De Morgan. You are perhaps surprised that I have not sooner troubled you again.
+And you may think it a very bad reason to
+give, that I have done nothing. We returned
+here on Tuesday, & now I am working away famously, & hope I have before me 7 or 8 months of ditto. You left me at page 106. I remember your enquiry if I were sure that I understood
+􏰌 b+k fx × dx as developped [sic] in pages 102, 103. I b dt
+answered confidently, that I did. I now enclose
+you my own development of this Integration, that we may be quite certain of my comprehension of [something crossed out] it. On the other page of my sheet, is the application of it to 􏰌 udv = uv − 􏰌 vdu
+(page 105); & to 􏰌 x 1 dv dx (page 107). a vdx
+I have now two questions to propose.
+I differ from you in my development of 􏰌 1 dx
+1+x
+I subjoin my development: Let v = 1 − x
+􏰌 1 dx=􏰌 1 ×−(−1)dx(whichisonly 1−x 1−x
+another way of writing 􏰌 1 .1.dx) 1−x
+Andas dv or d(1−x) =−1,wemayinthe dx dx
+abovesubstitute􏰌 1 dx=􏰌 1 ×−􏰑d(1−x)􏰒dx 1−x 1−x dx
+Or􏰌 1dx=􏰌 1 ×−dvdx v v dx
+= 􏰌 1 dv .(−1)dx which by v dx
+􏰌 budx = b 􏰌 udx (see page 105) is = (−1) 􏰌 1 dv dx
+or = − 􏰌 1 dv dx v dx
+Nowsincebyline4,􏰌 1dvdx=􏰌 1dv= v dx v
+v dx
+= log v + C, it follows that
+(— this same expression) must = −(log v + C)
+= −(log(1 − x) + C) = − log(1 − x) − C =log 1 −C
+1−x [107r] Now how do you get rid of (−C)?
+Ockham Park Ripley
+Surrey 4th July
+ [106v] I cannot see why the Constant C is omitted in this more than in 􏰌 1 dx.
+1−x
+(see page 107)
+
+My second question is unconnected with any of your books. But I think I may venture to trouble you with it. In the two equations,
+V=gT (1)
+S = 21g.T2 (2)
+which you will at once recognise, I want to
+know how (2) is derived from (1).
+Will you refer to Mechanics (in the Useful
+Knowledge Library), page 10, Note, which is
+as follows, “Let S be the space described by the
+“falling body. V = dS = gT. Hence dS = gT dT, dT
+“which being integrated gives S = 21g.T2.”
+Now can I [‘as yet’ inserted] understand this application of
+Differentiation & Integration?
+I conclude that dS here means dT
+Diff. co of S with respect to T, S being (by Definition & Hypothesis) a function of T, & of V IknowthatV =gT
+And that V = TS But I neither see how
+V = dS , nor how the subsequent Integration applies.
+dT
+[107v] The object, I need not say, is the solution of S.
+I mean to work very hard at my Chapter on Integration &c, now. And I hope this
+summer & autumn will see me progressing
+at no small rate.
+How is the Baby? And does Mrs De
+Morgan enjoy Highgate? I [‘am’ inserted] enjoying the country not a little, I assure you.
+Yours most truly A. A. Lovelace
+ 
+[108r]
+Dear Mr De Morgan. It is perhaps unfair of me to write again with a batch of observations & enquiries, before you have had time to reply to the previous one. But I am so anxious to get the present matters off my mind, that I cannot resist dispatching them by this post.
+I have two series of observations to send,
+one relating to the passage from page 107, (line
+8 from the bottom), to the last line of page 108;
+the other to certain former passages in pages 99,
+100 & 103, concerning which some questions have
+suddenly occurred to me quite recently.
+I shall begin with pages 107 & 108: I enclose
+Ockham Sunday. 6th July
+  you my development & explanation of 􏰌 √xndx up a2 −x2
+ to􏰌 xndx =−xn−1√a2−x2+(n−1)a2􏰌 xn−2dx −(n−1)􏰌 xndx √√√
+    a2 −x2 a2 −x2 a2 −x2 from which you will judge if I understand it
+so far. I should tell you that I have not yet
+begun page 109.
+I will now ask two or three questions : 1stly: page 107,
+[108v] (line 3 from the bottom): “the diff. co of a2 − x2 being (−2xdx) &c”. This surely is incorrect ; & you will see that
+in my development I have written it as I fancy
+it should be “being = (−2x), &c”
+2ndly: page 108, (lines 8, 9, 10 form the top) : “By 􏰌 UdV
+“we mean ············· p. 102, where
+“the values of ∆V in the several terms are
+“different, but comminuent.” I do not see that
+this is a case of page 102 rather than of page 100 ; in other words, that the increments in this Integration are “unequal but comminuent”.
+3dly: the subtraction in line 15 from the top, of
+(n − 1)xn−2 × dx for d.(−xn−1) appears to me quite inconsistent with the inseparable indivisible
+nature of a diff. co.
+4thly: Lines 9, 10 from the bottom, “We have therefore “&c ··········· that of √a2 −x2xn−2dx”.
+Admitted, most fully. But 􏰌 √a2 − x2xn−2dx does
+not answer exactly to 􏰌 vdx or 􏰌 √vd2u, and
+            
+therefore it appears to me that this Integration is
+not strictly an example of lines 5, 6, 7 (from the bottom)
+of page 107. You will remember that −xn−1 was = 2V ,
+therefore the xn−2 of (√a2 − x2xn−2) is equal to (−1) × 2V
+ or −1 .2V . So that another factor −1 enters into the xx
+x
+[109r] expression which was, as I understand it, to answer strictly to 􏰌 vdu or 􏰌 √vd2u
+5thly (line 5 from the bottom) page 108: I think there
+is an Erratum. Surely 􏰌 􏰑 a2xn−2 − xndx 􏰒
+√√
+  a2 −x2 ought to be 􏰌 􏰑a2xn−2dx − xndx 􏰒
+a2 −x2
+√√
+a2 −x2 a2 −x2
+  I don’t know if my pencil Sheet enclosed will be very intelligible, for it is as I wrote
+it down at the time quite roughly, & without any very great amplitude or method.
+I now proceed to my series of observations relating to former pages, beginning with page 102, (line 10 from the bottom)
+“+ less than nCΩ2 , or ChΩ”; 22
+now in order to [‘effect’ inserted] the substitution of ChΩ for nCΩ2 22
+the latter is resolved into C.nΩ.Ω2 , & [‘for’ inserted] nΩ is
+substituted h. But by the hypothesis & conditions,
+h must be less than nΩ. Therefore it does not
+necessarily follow that that which is proved less than
+nCΩ2 , is also less than ChΩ. You see 22
+my objection.
+2ndly. See Note to page 102 : If the “completion of the [‘first’ inserted] Series” [109v] in this page is unnecessary, surely it is equally
+unnecessarily in the first Series of page 100 ; for the
+same observation applies to the latter as to the
+former, viz : that the additional term is
+comminuent with w.
+3dly. See page 99 (line 8 from the bottom) :
+“􏰌xφx.dx=(x−a)a+(x−a)2 =x2−a2” a22
+This is another form of 􏰌a+h xdx = ha+ h2 8 lines a2
+above, & of the limit of the summation for φx = x in the previous page. And therefore it appears to me that it ought to be
+􏰌xx.dx=(x−a)a+(x−a)2 =x2−a2 a22
+I do not see what business φx has.
+       
+Now at last, I have done troubling you. I am very anxious on all these points. With many apologies, believe me
+Yours very truly A. A. Lovelace
+
+[110r]
+Dear Mr De Morgan. Since dispatching my letter yesterday, I remember that I have not even
+quite fully & correctly stated the whole points
+Ockham Monday. 6th July
+of difference [‘between’ inserted] 􏰌 √a2 − x2xn−2dx and 􏰌 √vd2u. I think I stated that 􏰌 √a2 − x2xn−2dx = 􏰌 √vd2u.−1,
+   that in other words the 1st side differs from
+x
+􏰌 √vd2u in containing a factor 􏰊−x1􏰋. But
+it differs also in containing dx as well,
+which in writing yesterday I omitted I believe
+to notice. So that 􏰌 √a2 − x2xn−2dx = 􏰌 √vd2u.(−1).dx st 􏰌√ x
+ or the 1 side differs from vd2u in containing −x1.dx. Is not this what I ought
+to have stated? Or is there still any confusion?
+I also wish to observe upon
+what I wrote on Friday as to the application
+of the Differential & Integral Calculus to gt2 , [110v] that I am aware this formula [‘e = gt2 ’ 22
+inserted] can be
+derived from V = gt, by the simple Theory of algebraical proportion ; but that I was anxious to know how it is derived in the other way.
+I will with your leave [‘(which I do not wait for)’ inserted], send you my paper making it out on the doctrine of
+Proportions.
+You must tell me if I presume too much
+on your kindness to me. I am so
+engaged at present with my mathematical
+& scientific plans & pursuits that I can
+think of little else ; & perhaps may be a
+plague & bore to my friends about [something crossed out] these subjects ; for after my interruption from
+Paris & London pursuits & occupations, my
+whole heart is with my renewed studies ; &
+every minutia even is a matter of the greatest
+interest.
+Believe me
+Yours most truly
+A. A. Lovelace
+    
+[111r] [something crossed out] You [‘will receive’ inserted] two papers on e = gt2
+tomorrow
+evening, or Weddy. One of them is to show the absurdity of the supposition that the spaces might
+be as the velocities ; [‘& that’ inserted] on merely abstract grounds it could not be.
+2
+     
+[112r]
+Ockham Park
+Sunday. 11th July [‘1841’ added by later reader]
+Dear Mr De Morgan. I enclose you a paper
+(marked No 1) from which I think you will see that
+I now quite understand the real relationship
+between 􏰌 √xndx and 􏰌 √a2 − x2xn−2dx ; & that a2 −x2
+  I [something crossed out] am now aware I wanted to apply to the latter what is not intended to be directly applied to it at all ;
+& that [‘my’ inserted] getting both du and dx in, was a
+complete puzzle & blunder. For where a few lines
+ previously (−n − 1) 􏰌 √a2 − x2xn−2dx is substituted for 􏰌 √a2 − x2 × (−n − 1)xn−2dx, du ceases of
+  course to enter under the Integrated quantity, [something crossed out] since it has been decomposed & otherwise distributed.
+I am still occupied on pages 108, 109, 110,
+& hope to complete to page 112 during this week. I
+find this part requires studying with great care.
+I think you anticipated this.
+I must now thank you very much for your two
+letters ; & will proceed to notice one or two points
+[112v] in your replies to my enquiries.
+I see that in objecting to what I called the
+division of dV , when dV is substituted for dx
+dV dx, I took a completely wrong view of the dx
+matter. It does so happen that the expression
+(derived from a separate & distinct Theorem) which
+we may substitute for dV dx coincides in dx
+form with what we may call the numerator dV
+of the diff co. But the dV that is substituted is
+not therefore derived from dV , at least [‘not directly or’ inserted] from dx
+the decomposition of that which is indecomposible [sic]. I return again my former paper (marked No 2.)
+with a clearer explanation of what I intended to convey by the term equivalent ; a term which it seems I had no business to use in the application which I [‘there’ inserted] meant to make of it.
+I enclose (marked No 3) my answer to your “Try “to prove the following. It is only when y = ax
+“(a being constant) that dy = y ” I do not feel dx x
+quite sure that my proof is a proof. But I think
+       
+it is too.
+Nowaboutv=gtands=12gt2 ;asubject
+which troubles me not a little.
+Is the following a correct development of the note in
+Useful Knowledge Mechanics? I re-copy the notes first ;
+[113r] “V = dS = gT. Hence dS = gT.dT, which being dT
+“integrated gives S = 12g.T2”
+[something crossed out on two lines]
+The Integral of dS dT or of gT.dT will dT 􏰌
+obviously give us S ; & we know that
+= 12 gT 2 + C, (by formula of page 104 of the Calculus).
+But it appears to me that the statement
+above “Hence dS = gT.dT” is an unnecessary
+intermediate step :
+It is true that 􏰌 dS dT = 􏰌 dS, dT
+that is providing we extend the theorem 􏰌 fxdxdt = 􏰌 fx.dx
+dt
+to the case when fx = 1, which I conclude it is allowable to do, since 1 may be considered a function of anything, I imagine ; thro’ the formula
+fx = 1. But tho’ true, yet the above [‘clause’ inserted] appears fx
+to me [‘an’ inserted] unnecessary introduction. I am not sure that I have explained myself well.
+With respect to this formula
+12gt2, & it’s [sic] derivation & application ; I have
+referred as you desired to pages 27, 28, & have [113v] fully refreshed my memory upon them. But I do not feel this helps me much. In this first
+place the process is the converse of that I enquired upon. S is there give, & V is to be derived
+from S. My position was ; V given, & S to
+be derived from V .
+I understand the process of pages 27, 28, considered as a distinct & separate thing. But I do not identify it with Differentiation or Integration.
+I, (knowing by abstract rules & theorems) that 2x is the diff co of x2, see that the limit 2t
+which comes out, might be perfectly well expressed by d(t2). And that we may put the result
+dt
+of the Differentiation of t2, and the result of all the reasoning of pages 27, 28, indifferently one for the other. But I only see it as I see that
+ gT.dT =
+       
+in the processes 12 ÷ 4 = 3 1 + 2 = 3 we
+might indifferently put the results (3, in both cases)
+one for the other. There may, for anything I yet
+see or understand, be as little connection between
+the abstract process of Differentiation and the
+Stone-falling process, as between the above processes
+of Division & Addition, which latter tho’ their results
+agree, cannot be identified, or one made to represent
+[114r] the other.
+I apprehend [something crossed out] you will perhaps answer me here, that I must wait patiently for Chapter 8,
+in which (page 143) I see something very like an
+explanation of all I want. At the same time
+I think it better to express fully my difficulties.
+I am very anxious to see your Comments on
+my two papers [‘sent the other day’ inserted] upon 12gt2. For I do not see where the flaw in them can be ; & yet I suppose
+there is one. It is some comfort in the confusions
+& puzzles one makes, that they are always
+exceedingly amusing to me, after they are cleared
+away. And this is at least some compensation for the plague of them before.
+With many thanks,
+Yours most truly A. A. Lovelace
+   
+[115r]
+Dear Mr De Morgan. You must be beginning
+to think me lost. I have been however hard at work, with the exception of 10 days complete interruption from company. I have now many thing to enquire. First of all; can I spend
+an evening with Mrs De Morgan & yourself on Tuesday the 24th? On that day we go to Town to remain till Friday, when we move down to Ashley for 2 months at least. I would endeavour to be early in Gower St; before eight or not later than eight. And I feel as if I should have
+many mathematical things to discuss.
+Now to my business :
+1stly: I send you a paper marked 1, containing my
+development of two Integrals in page 116, 􏰌√ dx =sin−1􏰊x−a􏰋
+Ockham Park
+Sunday. 15th Augst
+[‘1841’ added by later reader]
+ 2ax−x2 a
+And􏰌 √ dx =log(x+a+√2ax+x2)+log2
+  2ax+x2
+The former one I think is plain enough, & I and
+ the book are quite agreed upon it. Not so with
+[115v] the latter one, & I begin to suspect the book.
+ I cannot make it anything but
+ 􏰌 √ dx 2ax+x2
+orelse
+=log(x+a+√2ax+x2) √
+=log(x +a+ 2ax+x2)+log2 22
+  I have tried various methods ; but the
+only one which I find hold good [sic] at all, is
+that applied in page 115 to 􏰌 √ dx , & which
+ a2 +x2
+my result above. By the bye I have a remark
+seems clearly to bring out
+to make on the Integration of 􏰌 √ dx as
+ a2 +x2
+developped [sic] in page 115.
+Line 10 (from the bottom), you have xdx = ydy: This is obvious, & similarly I deduce in my paper No1,(2a+x)dx=ydy. ButIseenousein what follows, “and ydx + xdx = ydx + ydy”.
+It is equally obvious with the former equation, but seems to me to have no purpose in bringing out the results, which I deduce as follows :
+ 
+Since xdx = ydy, we have dx = dy yx
+Therefore by the Theorem of page 48, or at least [‘by’ inserted] a Corollary of it, we have dx+dy = dx , whence &c, &c.
+x+y y
+And this is the method also which I have used
+[116r] in developping [sic] 􏰌 √ dx . 2ax+x2
+2ndly: Page 113, lines 16 [‘&c 17’ inserted] from the bottom, you say “The “first form becomes impossible when x is greater than
+“√c, for in that case the Integral becomes the
+“Logarithm of a Negative Quantity”. Now there are
+surely certain cases in which negative quantities
+may be powers, & therefore may have Logarithms.
+All the odd whole numbers may surely be the
+Logarithms of Negative Quantities.
+(−a) × (−a) = a2 But (−a) × (−a) × (−a) = −a3
+or (+a) × (+a) = a2 (+a) × (+a) × (+a) = a3
+3 is here surely the Logarithm of a Negative Quantity.
+Similarly a negative quantity multiplied into itself
+any odd number of times will give a negative result.
+3dly: In the Paper marked 3, which I return
+again [‘for reference’ inserted] ; I perfectly understand the proof by means of the
+Logarithms (added by you), why dy can only = y dx x
+when y is either = x, or = ax (a being Constant) Your proof is perfect, but still I do not see that mine was not sufficient, tho’ derived from much more general grounds.
+My argument was as follows : Given us dy = y , dx x
+what conditions must be fulfilled in order
+to make this equation possible? Firstly : I see that
+[116v] since dy means a Differential Co-efficient, which dx
+from it’s [sic] nature (being a Limit) is a constant & fixed thing, xy must also be a constant & fixed quantity. That is y must have to x a constant
+Ratio which we may call a.
+This seems to me perfectly valid. And surely a Differential Co-efficient is as fixed & invariable
+in it’s [sic] nature as anything under the sun can be. To be sure you may say that there is a different Differential Co-efficient for every different initial value of x taken to start from, thus :
+d(x2) =2x ifx=a, d(x2) =2a dx dx
+               
+if x = b, d(x2) = 2b dx
+And this is perhaps what invalidates my argument above.
+4thly: In the two papers folded together & marked 2, which I also again return for reference, I perfectly see that tho’ mathematically correct. I was completely wrong in my application. But my proofs do apply
+to any two different & independent velocities, whatever of two different bodies, or of the same body moving
+at two different uniform ratio [sic] at different epochs.
+Thus my paper (marked upon it 1st Paper) proves [117r] the following : that the Spaces moved over at two different times, in virtue of the Velocity acquired at
+the end of each of those times, (the impelling cause
+being supposed to cease at the end respectively of each
+time fixed on), would be to each other as the
+squares of the times fixed on. But I perfectly
+see that this is quite a different & independent
+consideration from that of the Space actually moved
+over by a body impelled by an accelerating force,
+& how wholly inapplicable my [‘former’ inserted] view of it was.
+I have been especially studying this
+subject of [something crossed out] Accelerating Force, & believe that I now understand
+it very completely. I found I could not rest upon
+it at all, until I made the whole of the subject out
+entirely to my satisfaction : I enclose you (marked
+4) the first of a Series of papers I am making out
+in the different parts [‘of’ inserted] it. This one is the more
+general development of the particular case of Gravitation
+in pages 27, 28 ; & my more especial object in it
+has been the identification of the results arrived at
+in this real application, with the Mathematical
+Differential Co-efficient.
+I have worked most earnestly & incessantly at the
+Application of the Differential & Integral Calculus to the
+[117v] subject of Accelerating Force, & Accelerated Motion,
+during the last 2 or 3 weeks. It has interested me
+beyond everything. After making out (according to
+my own notions) the two papers on v = ds , and 􏰌 dt
+s = vdt, (the first of which I now send, & the Second you will have in a day or two), I attacked your Chapter 8, pages 144, 145, worked out all the
+                        
+Formulae there ; & had excessive trouble with my third paper on t = 􏰌 ds , (now successfully terminated);
+v
+and I am now on f = dv , page 146. dt
+You will perhaps not approve my having thus run
+a little riot, & anticipated. But I think it has
+done me great good. And I am anxious to know
+if I may read the rest of this Chapter 8, before reading Chapter 7 on Trigonometrical Analysis ; & if I am likely to understand it all without having
+read Chapter 7.
+I shall probably write again tomorrow ; or if not,
+certainly I shall on Tuesdy.
+We are very anxious to know if there is no time
+between the 1st Novr & the middle of Feby, when you &
+Mrs De Morgan (& family) would come & stay here
+for as long as you can & would like. We should
+be delighted if you would remain 2 or 3 weeks.
+[118r] And if this should be impossible for you, perhaps still you would bring Mrs De Morgan & the children here,
+& remain a few days ; having them to stay longer.
+We both of us assure you that it would be
+no inconvenience whatever to us ; but rather contrary the greatest pleasure. And I am certain it
+would do Mrs De Morgan good to be here for
+a time. Pray consider my proposal ;
+at any rate for her & the children, if your own avocations should make it impossible for you even. Believe me
+Yours most truly
+A. A. Lovelace
+         
+[119r]
+Dear Mr De Morgan. I send you today, 1stly:
+a paper in which I have proved the Theorem
+􏰌 fxdxdt = 􏰌 fx.dx (of pages 102, 103), backwards. dt 􏰌
+That is I have assumed fx.dx, & deduced
+from it that when x = ψt, then 􏰌 fx.dx = 􏰌 fxdxdt;
+Ockham. Monday Morning
+16th [‘July’ crossed out] Augst [‘1841’ added by later reader]
+  whereas in the book 􏰌 fxdxdt was assumed, dt
+dt
+ & the process was exactly reversed.
+I do not send this as having any advantage
+over the other proof. Merely because it happened
+accidentally to strike me, & I wrote it down ;
+& I now [‘may’ crossed out] enclose it for inspection, to see that I have correctly deduced each step.
+2ndly: I enclose you my Second Paper on [‘the’ inserted] Accelerating Force subject. This one is the explanation of
+S = 􏰌 v.dt TomorrowIhopetosendyoutheoneont=􏰌 ds.
+v
+ [119v] I hope I am not plaguing you very much. I am anxious to read up to a certain point before moving to Devonshire.
+Believe me
+Yours most truly A. A. Lovelace
+
+[121r]
+Ockham.
+Friday. [something crossed out] 21st Augst
+Dear Mr De Morgan. You have received safely I
+hope my packet of yesterday, & my packet sent on
+Tuesday.
+I now re-enclose you the paper marked 1. There is
+another Integral added at the bottom. Also I have
+altered one or two little minutiae in the development
+of 􏰌 √ dx above, which you had omitted to correct. 2ax+x2
+I quite understand your observations upon it, & see the mistake I had made ; & which related to the Differential dy, and d(φx.x)
+If y = φx.x, then dy = d(φx.x) = d(φx.x) dx =
+dx
+=􏰗x.d(φx) +φx.dx􏰘dx=x.􏰑d(φx)dx􏰒+φx.dx= dx dx dx
+= x.dφx + φx.dx
+Or if y2 = φx.x, then dy2 = x.d.φx + φx.dx
+or d(y2)dy=x.d.φx+φx.dx dy
+or 2ydy = x.d.φx + φx.dx, and ydy = 12 x.d.φx + 12 φx.dx [121v] This is all now right in my head.
+    In 􏰌 √ dx
+􏰌 2ax+x
+2
+we arrive then in my corrected paper,
+√
+  at √ dx =log(x+a+ 2ax+x2)
+ 2ax+x2 √ = log􏰑x + a +
+2ax+x2 􏰒+log2 222
+ which, as you observe “again with the book all but “the log .2, which being a Constant, matters nothing”. Very true ; but why did you then insist the
+log 2 in page 116? it seems as if put in on purpose
+to be effaced in the parenthesis (Omit the Constant). And it might just as well have been log 3,
+log 4, log (anything in the world).
+As to my two papers marked 2 (& which I
+again return, merely for the convenience of reference),
+I see that in order to make them valid, as applying
+each to two separate & different velocities, they should
+be re-written (which is not worth while), & the
+terms of the enunications altered as follows :
+“If two quantities V , V ′ be respectively equal to the
+     “Ratios S, S′,andifV :V′ =T :T′,thenthevalues TT′
+“S, S′ must be to each other as the squares of T, T′
+  
+“are to one another” &c, &c
+[122r] At last I believe I have it quite correctly.
+As for dy = y, I see my fallacy about y being dxx x
+a fixed quantity.
+ About page 113, “The first form becomes impossible
+“when x is greater than √c, for &c”, I fancy I
+  [something crossed out] had a little misunderstood
+the mathematical meaning of the words impossible
+quantity. I have loosely interpreted it as being
+equivalent to “an absurdity”, or at least to
+“an absurdity, unless an extension be made in the
+“ordinary meaning of words”. And in this
+instance I perceived that if the Logarithm be
+an odd number, there would be no absurdity
+even without extension in the meaning of terms ;
+because that it would then merely imply a
+negative Base ; which negative Base, would I think
+be admitted theoretically (tho’ inconvenient practically)
+on the common beginner’s instruction on the Theory of
+                Logarithms. Am I right?
+By the bye this subject reminds me that I think
+I find a mistake in page 117, line 13 (from the top)
+“(n an integer) 􏰌+a xndx = 0 when n is odd, = 2an+1 −a n+1
+[122v] It seems to me just the reverse, thus : =0whenniseven,=2an+1 whennisodd
+when n is even”
+   n+1
+􏰌 +a xndx = an+1 − (−a)n+1 = an+1−(−a)n+1 =
+  I have it as follows :
+  −a
+n+1
+= an+1−an+1
+n+1
+n+1 n+1
+or 0 if n+1 be even
+ (I now see it while working ; for if n+1 be even, n must be odd.)
+ and vice versa. So I need not trouble you upon this ; as I have
+solved my difficulty whilst stating it. I had only
+looked at this Integral in [‘a’ inserted] great hurry, this morning.
+I hope on Sunday to send you two remaining papers I have to make out, on the Accelerating Force subject ;
+upon f = dv, and v = 􏰌 fdt dt
+I think I have been encouraged by your great kindness, so as to give you really no Sinecure just at this moment.
+
+Yours most truly A. A. Lovelace
+
+[123r]
+Ashley Combe Thursdy Morg
+9th Sepr [‘1841’ added by later reader]
+Dear Mr De Morgan. I have rather a large batch
+now for you altogether :
+1stly: I am in the middle of the article on Negative & Impossible Quantities ; & I have a question to put on
+page 134, (Second Column, lines 1, 2, 3, 4, 5 from the bottom)
+(a+bk)m+nk =εAcosB+kεA.sinB&c
+I have tried a little to demonstrate this Formula ;
+but before I proceed further in spending more time
+upon it, I think I may as well ask if it is intended
+to be demonstrable by the Student. For you know I
+sometimes try to do more than anyone means me to
+attempt. I have as yet only got thus far [something crossed] with the above formula : If in (a + bk)m+nk, risgiven=√a2+b2,[‘and’inserted]tanθ=ab ;thensinθ=b
+cos θ = a
+and(a+bk)m+nk =(cosθ+k.sinθ)m+nk =
+= (εkθ)m+nk = εk(mθ) × 􏰕εk(nθ)􏰖k
+or = (cos .mθ + k. sin .mθ) × (cos .nθ + k. sin .mθ)k, and [123v] I dare say that from some of these transformations, the Second Side of the given equation, with the determination of A and B, may be deduced. But
+it appears to me [‘it must be’ inserted] a very complicated process ; & therefore I should like to know before I undertook it,
+that I was not wasting time [‘in’ deleted] doing so.
+2dly: I am plagued over page 135 of the Calculus.
+It is not that there is any one thing in it which
+I do not clearly see. But it is the depth of the
+whole argument which I cannot manage to discover.
+I should say that whole argument from “We now know &c” page 134, to “We can therefore take a function,
+“which, for a particular value of x, &c, &c” page 135.
+It seems to me all to be much ado about nothing;
+and I do not see what is arrived at by means
+of it [something crossed out]. A very complicated process appears to be used in the 1st Paragraph of page 135, to prove
+that when h is small then the Increment in φx
+is very nearly represented by φ′a + h, which was
+             
+already shown in page 134. And then suddenly in the Second Paragraph the Formula φa + φ′a(x − a)+
++φ′′a(x−a)2 is introduced, & I do not understand 2
+a` quoi bon the closing conclusion drawn from it. 3dly: I am not sure that I agree to what you
+say in preference (for ascertaining Maxima & Minima) of the direct ascertainment of the value of φ′x, over [124r] the ordinary method. Because it seems to me in many cases impossible after you have determined 0 or
+α values of φ′x, to determine further that the sign
+does change at them & how it changes, unless by means of the ordinary rule. I have written out and
+enclose an example from Peacock, in which unless I had used the ordinary rule, after I had determined 0 values for φ′x, I should have been at my wits’ end how to bring out the conclusion.
+4thly: I send you a little Maxima & Minima
+Theorem of my own, which occurred to me by accident ; Itisforφx=x2 −mx. Afterprovingitbythe
+Differential Calculus, I have given a direct proof
+of another sort. I merely wrote this [‘direct proof’ inserted], because it [something crossed out] occurred to me ; but it gave me a great deal of trouble, & I think was rather a work of supererogation;
+but I believe it is quite correct. You will find
+enclosed in the same sheet the demonstration of
+“What is the number whose excess above it’s [sic] Square
+“Root is the least possible?” (see page 133 of the Calculus) ;
+and on the reverse side of this latter [something crossed out]
+is the “verification round the 4 Right Angles” for the
+continual increase together of x and it’s [sic] tangent (See
+page 132). But here I have something further to
+add. In this Chapter VIII, we hear of Differential
+Co-efficient which become = 0, or = α. In this very
+[124v] instance, 1 + tan2 x is alternately = 1, and = α.
+Now according to my previous ideas, the terms
+Differential Co-efficient was only applied to some
+finite quantity ; and referring to pages 47, 48,
+where one acquired one’s first ideas of a Differential
+Co-efficient, I think it is there clearly explained
+that the term is only used with reference to a
+finite limit. But in this Chapter VIII, there
+seems to be a considerable extension of meaning on
+                    
+the subject.
+5thly. In page 132, it is very clearly deduced that
+the Ratio of a [something crossed out] Logarithm to it’s [sic] number is increasing as long as x is < ε, and afterwards decreases.
+The proof is most obvious. But, unluckily, the conclusion seems to me to be contrary to the fact ; at least the first half of the conclusion, not the latter half.
+On this principle : from the very nature of a Logarithm, it is obvious that (x being > ε), for equal increments to the log, x, there will be
+larger & larger Increments to x. The one being in arithmetical, the other in geometrical progression. Therefore clearly the Ratio of the Logarithm to the number, is a diminishing one. But then the
+same thing seems to me to apply [something crossed out] when x < ε. Surely there is then just the same
+[125r] arithmetical & geometrical progression for equal Increments of the Logarithms. I suppose there is
+some link that I have over-looked.
+I send you two Integrations worked out. They
+are from Peacock. I in vain spent hours over the
+one marked 2, of which I could make nothing by
+any method that I devised ; until in despair, I
+looked thro’ your Chapter XIII to see if I could there find any hints ; & accordingly at page 277, I
+found a general formula which included this
+case. But I do not believe I should ever have
+hit upon it by myself. The Integral marked 1,
+might of course be proved also in the same way ;
+tho’ [‘my’ crossed out] the method [‘I have used’ inserted] is sufficient in this instance.
+I have written out no more papers on
+Forces. In fact there is only one more that is
+left for me, viz: f = vdv. And for this I see ds
+no occasion ; for I am sure that I must thoro’ly
+understand it, after all I have written.
+I quite see [‘the truth’ inserted] your remarks on my having treated Acceleration of Velocity as being identical with
+Force ; whereas, (as I now understand it), it is
+simply the measure of Force, & our only way of
+getting at expressions for this latter. On the subject
+[125v]ofv2 =2􏰌fds+C;Ihaveconsidereditagreat deal ; and any direct demonstration of it, after the
+                      
+manner of my other papers, seems to me to be quite impracticable. Neither 􏰌 v.dv, nor 􏰌 f.ds
+[something crossed out] now appear to me to have any actual proto-types in the real motion. Here then suggests itself to me the
+question : “then are there certain truths & conclusions
+“which can be arrived at by pure analysis, & in
+“no other way?” And also, how far abstract analytical expressions must express & mean something real, or not. In short, it has
+suggested to me a good deal of enquiry, which
+I am desirous of being put in the way of
+satisfying.
+By the bye, I fear that one little paper of mine
+dropped out of the last packet. It was a little
+pencil memorandum on [‘the meaning of’ inserted] 􏰌 f.ds ; & there were remarks upon it, (if you remember) in my accompanying
+letter. It bears upon the above question.
+I could write it out again, if it has been lost.
+Is not this a budget indeed?
+Yours most truly
+A. A. Lovelace
+            
+[127r]
+Ashley-Combe
+Sunday. 19th Sepr [‘1841’ added by later reader]
+Dear Mr De Morgan. I have more to say to you
+than ever ; ( beginning with many thanks for your bountiful replies to my last packet).
+I will begin with the Article on Negative & Impossible Quantities, on which I have a good deal to remark.
+I have finished it ; & I think with on the whole
+great success. I need scarcely say that I like it parenthetically. I enclose you the demonstration of the formula (a + bk)m+nk = εA. cos B + k.εA. sin B, which I found exceedingly easy, after your observations.
+I should tell you that the allusions to the
+Irreducible Case of Cubic Equations in this Article,
+has so excited my curiosity on the subject, that I
+have attacked the chapter on Cubic Equations in [‘page 47’ inserted] of R. Murphy’s treatise on the Theory of Equations (Library
+Useful Knowledge), hoping there to gain some light
+on the subject. For I know not to what exactly this
+alluded, (my Algebra wits, as you say, not having
+been quite proportionally stretched with some of my other
+wits). I have got thro’ the first two pages ; and
+[127v] shall have to write you some remarks upon these,
+either in this letter, or in one as soon as possible.
+But as yet I meet with nothing about
+I hope I shall be able to understand the rest of the
+Chapter.
+At the bottom of my demonstration of (a + bk)m+nk, you
+will find a memorandum (simple as to the working
+out) of the formula cos .(a + bk), see page 137 of the
+Cyclopedia. You there say that such a formula
+may be interpreted by it’s [sic] identical expression on the
+Second Side. That is to say I imagine that the
+   √3 (a+b√−1)+√3 (a−b√−1)
+    meaning of cos(a + b
+√
+−1), which (as before pointed out in
+the case of the line h) is a misapplication of symbols,
+may be got at thro’ an examination of the results
+arrived at by [‘the application of’ inserted] symbolical rules to this unmeaning
+or mis-meaning expression. That if in a calculation,
+such an answer as cos(a + b the answer means in fact
+√
+−1) were worked out,
+
+[something crossed out]
+the remaining side of a parallelogram in which
+cosαεb+ε−b is a diagonal, and sinα.εb−ε−b .k the 22
+other side : the diagonal itself being a 4th Proportional
+to 1, cosα, εb+ε−b , inclined to 1 [‘(that is to the Unit-Line)’ inserted] as the cosα is ; &
+ 2
+the remaining side being a 4th Proportional to 1, sin α,
+  εb−ε−b inclined to 1 at an angle equal to the sum of a 2
+[128r] Right-Angle and the angle made by sin .α with the Unit-Line. I enclose you an explanation I
+have written out (according to the Definition of this Geometrical Algebra), of the two formulae for the Sine and Cosine. I am at work now on the Trigonometrical Chapters of the Differential Calculus.
+I do not agree to what is said in page 119 [‘(of the Calculus)’ inserted] that
+results would be the same whether we worked [something crossed out] algebraically
+ with forms expressive of quantities or not. It is true
+that [‘in’ inserted] the form a + √m − √n, if (−1 be substituted for
+ m and n, the results come out the same as if we
+work with a only. but were the form a + √m,
+a−√m, a×√m, or fifty others one can thin of,
+surely the substitution of (−1) for m will not bring
+out results the same as if we worked with a only;
+and in fact can only do so when the impossible
+expression is so introduced as to neutralize itself,
+if I may so speak. I think I have explained
+myself clearly.
+It cannot help striking me that this extension of
+Algebra ought to lead to a further extension
+similar in nature, to Geometry in Three-Dimensions ;
+& that again perhaps to a further extension into
+some unknown region, & so on ad-infinitum possibly.
+And that it is especially the consideration of
+    √
+−1, which should lead to this ; a symbol,
+an angle =
+which when it appears, sees to me in no way more
+[128v] satisfactorily accounted for & explained than was
+formerly the appearances [‘which’ inserted] Bombelli in some degree cleared up by showing that at any rate they
+(tho’ in themselves unintelligible) led to intelligible
+& true results. You do hint in parts of page 136
+at the possibility of something of this sort.
+  
+I enclose you also a paper I have
+written explaining a difficulty of mine in the Definitions of this Geometrical Algebra.
+It appears to me that there is
+no getting on at all without this Algebra. In
+the 3d Chapter of your Trigonometry (which I have just been going thro’), though there are no impossible quantities introduced ; yet how unintelligible are
+such formulae as 2ac. cos B, a. sin B, or any
+in short where lines are multiplied into lines, if
+one only takes the common notion of a line into a line being a Rectangle.
+I cannot send more today ; but I have many other matters to write on ; especially the Logarithmic Theory at the end of the Article.
+I am considering it very carefully ; & studying
+at the same time the Article on Logarithms in the Cyclopedia. And I believe I shall have much to say on it all.
+The passage I wanted to ask you about in Lam ́e’s
+[129r] 1st Vol, is pages 54, 55, 56, on the Resultant of the pressures of a liquid on a vase. I want to know
+if I ought to understand these three pages, or if they entail some knowledge of mathematical (especially of trigonometrical) application to Mechanics, which I
+do not yet possess.
+I hope you receive game regularly. Yours most truly
+A. A. Lovelace
+P.S. Did you ever hear of a Science called Descriptive Geometry? I think Monge is the
+originator of it.
+             
+[130r] Dear Mr de Morgan I have for the last
+fortnight [‘been’ inserted] daily intending to write to you on mathematical
+matters ; & now I do not
+think it worth while because
+I have an idea of being in
+Town on Tuesdy next for a
+day or two. And if could
+see you on Weddy, either by
+your kindly coming to me
+[130v] at 12 o’clock that day, or by my going to spend Weddy
+Evg in Gower St, it
+would answer the purpose much
+better. Besides having a
+list of [‘particular,’ inserted] little things to ask you about ; I am now anxious
+to consult you again as to
+my general progress & way of
+going on. I have one or
+two little difficulties just now.
+I believe we shall
+remain on here for some
+weeks longer. My intended journey to Town is only on particular business. And by the bye it is not to be known
+that I am going. My mother [131r] even has no idea of it ; & I do not wish that she should.
+So I will thank you & Mrs
+De Morgan to mention nothing about it to any one.
+How is she? And when to
+be confined?
+Yours most truly A. A. Lovelace
+Ashley-Combe Porlock
+Somerset
+Weddy 27th Octr [‘1841’ added by later reader]
+    
+[132r]
+Ashley-Combe Porlock
+Somerset
+Thursdy 4th Novr [‘1841’ inserted by later reader]
+Dear Mr De Morgan. As I find my journey to
+Town is extremely uncertain, & may possibly even not take place at all, I will trouble you without
+further delay on the more important of my present points of difficulty.
+I will begin with those relating to Chapter 9th of the Calculus, which I am now studying. I have arrived
+at page 156.
+page 132 : (at the bottom). I make u = cos−1 􏰑1−ε2(C−x) 􏰒 ε2(C −x) +1
+instead of u = cos−1 􏰑ε2(C−x)−1􏰒 ε2(C −x) +1
+I enclose a paper with my version of it.
+page 153 : “For instance, we should not recommend
+“the student to write the preceding thus, d2.du + d2x.du = 0, “tho’ is it certainly true that upon the implicit
+“suppositions with regard to the successive Increments, “∆2u.∆x + ∆2x.∆u diminishes without limit as compared “with (∆x)3.” Why this comparison with (∆x)3?
+[132v] Had the expression been ∆2u.∆x+∆2x.∆u instead (∆x)3
+of ∆2u.∆x + ∆2x.∆u, it would then be clear that if
+the Numerator diminished without limit with respect
+to the Denominator, the fraction itself would approach without limit to 0. But as it is, I see no purpose answered by a comparison with (∆x)3.
+Also, I not only do not see the object of this comparison,
+but I do not perceive the fact itself either. Where is the proof that ∆2u.∆x + ∆2x.∆u does
+diminish without limit with respect to (∆x)3?
+Page 135 : (at the top) : There is a slight misprint
+C=K2+K12 insteadofC=K2+K′2
+Page156: (line9fromthetop): u=C.sinθ+C′.cosθ+21θ.sinθ
+            (Explain this step?)
+(1). . . u = C sin θ + C′ cos θ + 21 θ. sin θ + 14 cos θ (quite clear)
+(2)...Andu=cosθ−d2u (byhypothesis) dθ2
+ Now I cannot “explain this step”. In the previous line, we have :
+ 
+= 1 cos θ + 􏰑 3 cos θ − d2 u 􏰒 4 4 dθ2
+whence one may conclude that
+C. sin θ + C′ cos θ + 1 θ. sin θ = 3 cos θ − du
+2 4 dθ2 But how u = C sinθ + C′ cosθ + sinθ.12θ is to be deduced
+[133r] I do not discover : By subtracting 41 cos θ from both sides of (1), we get
+u−41 cosθ=Csinθ+C′.cosθ+21θ.sinθ But unless 14 cos θ = 0, (which would only be the case
+I conceive if θ = w2 ), I do not see how to derive
+the equation in line 9 of the book.
+Page156: Showthat d2u −u=X (afunctionofx) dx2
+I have,
+gives u = Cεx + C′ε−x + 12εx 􏰌 ε−xX.du − 12ε−x 􏰌 εxX.dx d2u − u = X u = Kεx + K′ε−x
+ dx2
+du =Kεx+K′ε−x+dKεx+dK′ε−x dx dxdx
+Assume dK εx + dK′ ε−x = 0 dx dx
+Then du = Kεx + K′ε−x, and d2u = Kεx + K′ε−x+
+X = dK εx + dK′ ε−x dx dx
+􏰐 which tell nothing at all as to the values of dK , dK′
+0 = dK εx + dK′ ε−x dx dx
+dx ′ dx of K, & of K
+dx
+du2
++dK εx + dK′ ε−x dx dx
+X=dKεx−dK′ε−x 􏰐
+dx dx the expression in the Ifwehad 0=dKεx+dK′ε−x
+dx dx book will be then at once deduced.
+[133v] But I do not see how to get these two latter equations co-existent.
+I enclose an attempt of mine, making the assumed
+to be dK εx + dK′ ε−x = x2 instead of = 0 ;
+dx dx
+and also [‘one’ inserted] making this relation to be K + K′ = x3, but which latter I found led to such very complicated
+results that I proceeded but a little way, thinking
+it a probable loss of time to go on.
+With the relationship dK εx + dK′ ε−x = x2, I am dx dx
+as unsuccessful as with = 0.
+I defer to another letter some other difficulties of mine not relating to this Chapter, but partly to
+some remaining points in the 8th Chapter, & partly to miscellaneous matters.
+  
+I hope Mrs De Morgan & the “large boy” continue to flourish. So Mrs De M has beat the Queen in
+the race, out & out!
+Yours most truly A. A. L.
+   
+[134r]
+Ashley-Combe
+Monday. 8th Novr [‘1841’ added by later reader]
+Dear Mr De Morgan. I hope you intend to christen
+the “large boy” by the name of Podge, with which I
+am particularly pleased.
+I am much obliged by your letter. I send a corrected
+version (now I believe quite right) of d2u − u = X; on my dx2
+assumed supposition dK εx + dK′ ε−x = 0. As for my other dx dx
+assumption K + K′ = x3, it is so complicated a one that I
+have not thought it worth while to pursue it’s [sic] development.
+I cannot think how I could be so negligent as to
+forget that ε−x is a function of (−x) which is itself a
+function of x. A complete oversight ; as indeed most
+of the enquiries in my last letter seem to have been.
+I should perhaps mention that lately [something crossed out] I have
+had my mind a good deal distracted by some
+circumstances of considerable annoyance & anxiety to
+me ; & I have certainly studied much less well &
+more negligently in consequence. Indeed the last few
+weeks I have not at all got on as I wished and
+intended ; & I find that to force myself, (when
+[134v] disinclined & distraite), beyond a certain point is
+very disadvantageous. So on these occasions I just
+keep gently going, without however attempting very
+much. I am hoping now to get a good lift again
+before long ; as I think I am returning to a more
+settled & concentrated state of mind. I mention all
+this as an excuse for some errors & over-sights which
+I conceive are more likely just at present to creep
+into my performances than would usually be the
+case. Now to business : Chapter VIII :
+1. I send you two Problems on hypotheses of my own,
+intended as being worked out on the model of those
+in page 150. There are three different Hypotheses.
+IntheonewhereIobtaint=√1 􏰌 √ ds Ihave 2 s−1 −a−1
+not attempted to develop this Integral further.
+Perhaps I ought to have done so ; but it was only my object to get quite a general expression.
+2. Page 141 ; (lines 9, 10, from the bottom) : Series in page
+116 (of Chapter VI), it was shown that 􏰌 √ ds = sin−1 x−k = 2kx−x2 x
+               
+=􏰊vsin−1 x􏰋+􏰊w􏰋,Idonotseehowitcanbesaid(page141) k2
+that the Constant may have any value P .
+3. I have never succeeded in properly understanding
+the Paragraph beginning page 134, ending page 135, on
+which I before applied to you ; & the paragraph of
+page 148 – (marked 2) – has only added to my mistiness on [135r] the subject. There is something or other which I cannot get at in the argument & it’s [sic] objects. That of page
+135 seems very like another way of arriving at
+Taylor’s Theorem. The expression taken in line 25 from
+the top, I conclude to be arrived at as follows :
+Having obtained φa + φ′a.(x − a) ; a function agreeing
+in value and diff-co with φx when x = a, let us now
+find a function agreeing not only in these two points
+but also in second diff-co with φx, when x = a ;
+(the same conditions being continued of φ′a, φ′′a) ;
+We see therefore that φ′a must be of the form
+φ′′a.x + m where m = φ′a − φ′′a.a Substituting this in φa + φ′a.(x − a) we have
+φa + (φ′′a.x + m)(x − a) = φa + (φ′′a.x − a + φ′a)(x − a) = φa + φ′a.(x − a) + φ′′a(x − a)2
+Similarly we may obtain φa + φ′a.(x − a) + φ′′a.(x − a)2 + φ′′′a.(x − a)3 (By the bye I don’t see how you get (x−a)2 and (x−a)3 , instead
+    of (x−a)2 and (x−a)3 as I make it).
+But I cannot perceive what all this is for ; & (as
+I mentioned below), paragraph 2 of page 148 has added to my blindness. I am sorry to plague you again about it. On receiving your former reply, I felt none the wiser ; but determined to wait, thinking I
+might see it as I went on, which is often the case
+[135v] with difficulties.
+I now proceed to some miscellaneous matters.
+1. I make nothing of the Irreducible Case in the
+Penny Cyclopedia. Is it perhaps for want of having read Involution & Evolution? I am puzzled quite
+in the beginning of the Article.
+2. Article “Negative & Impossible Quantities” P. Cyclopedia – page 137 “If the logarithm of two Units inclined at angles θ and θ′ be
+added, (the bases being inclined at angles φ and φ′) ; the result
+is the logarithm of a Unit inclined &c, &c”
+I cannot develop this ; but I enclose some remarks upon it.
+3. In the treatise you sent me on the “Foundation of Algebra”,
+2
+2.3
+       
+I cannot make out [‘in’ inserted] the least [something crossed out] (page 5), about the general
+solution of φ2x = ax. I suspect I do not understand
+the notation f−1x. I quite understand f2x or φ2x,
+fnx or φnx. Judging by analogy, from page 82 of the Differential & Integral Calculus, (where ∆−1x is explained),
+I conceive f−1x or φ−1x may mean “the quantity “which having had an operation f or φ performed
+“with & upon it, is = x.” But I have considered much over the last half of this page 5, & I can’t understand it.
+I have one or two other matters still to write about ; but they do not press ; & this is plenty I think for today. Pray congratulate Mrs De Morgan on the arrival & prosperity of Podge.
+Yours most truly
+A. A. L.
+      
+[136r]
+Dear Mr De Morgan. In consequence of a
+sudden decision that I must
+go to Town tomorrow, I write without delay to beg for a
+line in St James’ Sqre, if
+you will kindly fix any
+hour on Satdy between nine
+& three o’clock, that may be most convenient to you to
+call on me there. I am
+[136v] very anxious to see you ; & hope it may not be very inconvenient to you.
+I had not the least idea
+till an hour ago, that I
+should go to Town this week. It is in consequence of letters unexpectedly received.
+I will just again mention
+that I do not wish my
+journey to be known ; & I
+have told no one except those necessarily concerned.
+In much haste
+Yours most truly A. A. Lovelace
+Ashley-Combe Weddy Morg
+10th Novr [‘1841’ inserted by later reader]
+  
+[138r]
+Ashley Combe Thursday
+11th Novr [‘1841’ inserted by later reader]
+Dear Mr De Morgan. What
+will you say when I write
+word that my intended
+journey is again delayed? & cannot now take place before Sunday or Monday week. I
+fear you will never trust me again ; but I must beg to assure you that this uncertainty has been quite unavoidable.
+Everything was arranged
+last night for our setting out
+at six this morning ; when
+[138v] unexpected circumstances obliged
+us to delay once more [‘fulfilling’ inserted] our intentions. I shall really feel
+quite ashamed next time, to
+write to you on a similar
+appointment ; altho’ I do not
+think it is possible that
+another put-off should occur.
+May I hope meanwhile
+to receive a reply to my last letter of Monday.
+I am going on very well
+indeed I believe now, with
+my studies ; next week I expect a few interruptions however from some engagements I have made.
+With many apologies, pray [139r] believe me
+Yours most truly A. A. Lovelace
+  
+[140r] My Dear Mr De Morgan. I am to be in Town
+(for as certain as any human
+affairs can be), next week.
+May I hope to see you on
+Tuesday ; any hour you like
+[‘to fix’ inserted] between 12 & 4 o’clock?
+Thanks for yesterday’s packet. I shall probably
+send you a Budget in a
+day or two again ; as it
+will save time when I see [140v] you. For I have so many Memoranda down to ask about, that it will be
+best all the principal
+things should just be
+noted to you first.
+Then we shall know at once where & what to begin upon.
+I am in the middle of Operation ; indeed nearly thro’ it ; & find no difficulties scarcely ; at least none of any moment.
+I see I have made a bother of u = Cεx + C′ε−x+
++12εx 􏰌 ε−xXdx − 12ε−x 􏰌 εxXdx [141r] ; not from any mis-comprehension of it ; but from too much
+haste in writing out. As
+I will explain in my
+promised packet.
+Yours always Most truly
+A. A. L
+Ashley-Combe Weddy
+        
+[142r]
+Ashley-Combe
+Sunday. 21st Novr [‘1841’ inserted by later reader]
+Mr Dear Mr De Morgan. [something crossed out] I said Weddy. At least I
+meant to do so. On Tuesday I have already an engagement in the morning. Perhaps you have written Tuesday by mistake. But of you cannot come on Weddy, then I must put off my Tuesday’s engagement, that I may see you then. If it is the same to you however, I should much prefer Weddy.
+Can you kindly give me one line tomorrow to
+say which it is to be. I shall get [‘it’ inserted] in the evening in St James’ Sqre. Now I proceed to business :
+1stly: You have mistaken my intentions I think about
+the formulae of pages 155, 156. My enclosures 1 & 2
+will explain.
+2ndly. Enclosure 3 contains the demonstration of “Exercise”
+page 159 3dly.Enclosure4 . . . . . . . . . . “Exercise”
+page 158
+4thly: About the Constant in page 141 : I still am
+[142v] unsatisfied. I perfectly understand that “any value” consists with everything in page 141. The principle
+is I conceive exactly the same as that by which in
+page 149, y is made = a + sin .x instead of y = sin x.
+I only mean that this result seems inconsistent with page 116 when it is shown that the Constant
+must = w2 .
+5thly: page 161, (line 14 from the top):
+φ′′(x + θh, y + k) − φ′′(x + θh, y) = φ(′′)(x + θh, y + vk).k 1
+         Why is v introduced at all?
+I have as follows :
+φ′′(x+θh,y+k)−φ′′(x+θh,y) =φ(′′)(x+θh,y)
+k1
+if k diminishes without limit ; (k being = ∆y)
+or φ′′(x + θh, y + k) − φ′′(x + θh, y) = φ(′′)(x + θh, y)k 1
+But I do not see how v comes in.
+6thly : I have several remarks to make altogether on the Article Operation. I will only now subjoin two. I believe on the whole that I understand the
+v<1
+   
+Article very well.
+See page 443, at the top, (2nd Column) :
+φ2 + 2φψ + ψ2, or (x2)2 + 2(x3)2 + (x3)3
+should be it appears to me φ2 + 2φψ + ψ2, or (x2)2 + 2x3.x3 + (x3)2
+or (x2)2 + 2(x3)2 + (x3)2 = (x2)2 + 3(x3)2
+[143r] I only allude to (x3)3, instead of (x3)2 as I make it. See page 444, at the bottom, (2nd column) :
+“Where B0, B1, &c are the values of fy and its “successive diff-co’s [sic] when y = 0, &c, &c”
+Surely it should be when y = 1.
+The same as when immediately afterwards, (see page
+445, 1st column, at the top), in developping [sic] (2 + ∆)−1φx; B0, B1 &c are the values of fy & its Co-efficients
+when y = 2, &c, &c.
+I have referred to Numbers of Bernoulli
+& to Differences of Nothing ; in consequence of reading this Article Operation. And find that
+I must read that on Series also.
+I left off at page 165 of the Calculus ; &
+suppose that I may now resume it ; (when I return here that is).
+I will not trouble you further in this letter.
+But I have a formidable list of small matters down, against I see you.
+Yours most sincerely A. A. Lovelace
+         
+[144r]
+Ashley-Combe Porlock
+Somerset Sunday Morg. 28th Augst
+[‘1842’ added by later reader]
+Dear Mr De Morgan. I am going on well ; [‘quite’ inserted] as I could wish. I have done much since I saw you ;
+& you will have all the results of the last few days
+in good time. I enclose you now two papers ; one
+on f = dv, the other on 􏰌a′ f.dt. dt a
+You will have next those on vdv = f, and 2􏰌 dt
+v =2 f.ds+C. ThislatterIthinkIhave
+succeeded in analysing to my mind.
+I have [‘now’ inserted] two observations to make : [something crossed out]
+1stly: I think I have detected a slight error in one
+of my former papers, that on t = 􏰌 ds. I return v
+it for reference. In order in the [something crossed out] Summation [something crossed out]
+􏰗1 + 1 +···· 1 􏰘ds,toendwith 1 , φs φ(s+ds) φ(2s) φ(2s)
+I should have begun with 1 not with 1 . φ(s+ds) φs
+If the time elapsed during the first fraction of Space
+[144v] (starting from s) were [‘made’ inserted] = 1 , then the time for the last
+φs
+   of the Fractions necessary to complete up to 2s, would be 1 , and not 1 which it ought to be.
+ φ(2s−ds φ(2s)
+I don’t know that this affects the correctness of the
+ ultimate limit of the Summation. But here, where the Summation itself is made to represent a hypothetical movement, it is clearly wrong.
+The error is avoided in the former paper I had written on s = 􏰌 v.dt, which I likewise return to refer to this Point.
+2ndly: In considering a priori the Integral 􏰌 f.ds,
+I am inclined still to adhere to my original
+opinion (expressed in the pencil Memorandum I showed
+you & [‘which I’ inserted] now return). I should premise that I now mention this merely as a curious subject of investigation,
+not because it is concerned in the [something crossed out] papers I ammakingoutuponv2 =2􏰌f.ds+C,inwhichI
+have avoided the direct consideration of 􏰌 a′ f.ds. a
+   
+I am disposed to contend that tho’ ds
+does here represent Space, that still the ds fraction
+of any one of the terms of the Summation, say φ(a + n.ds)ds
+means the same fraction of φ(a + n.ds) which ds is of
+[145r] a Unit of Space ; & therefore that since φ(a + n.ds)
+represents Force, (or [‘uniform’ inserted] Acceleration of Velocity for 1 Second
+in operation during the performance of the length ds),
+the ds fraction of this expression must represent the
+[‘ds part of this Force or the’ inserted] actual Acceleration for 1 of a Second. I treat ds
+ds
+as
+an abstract quantity. And so I conceive [something crossed out] dt must
+betreatedins=􏰌v.dt,[‘ds’inserted]int=􏰌 ds,dtin􏰌f.dt,
+v
+&c, &c.
+I should tell you that I am much pleased with
+the observation you added to my inverse demonstration
+of 􏰌 fx.dxdt = 􏰌 fx.dx , and that I quite dt
+understand [‘why’ inserted] my proof can only be admissible on the Infinitesimal Leibnitzian Theory. But this
+theory is to my mind the only intelligible or
+satisfactory one. In fact, (notwithstanding it’s [sic] error),
+I should call it the only true one.
+By and bye, you will have some observations
+of mine upon Differential Co-efficients & Integrals, abstractly considered. I have been thinking much
+upon them.
+I am going on with Chapter VIII.
+By the bye, I believe you will receive somehow tomorrow [145v] a book (the 1st Vol of Lam ́e’s Cours de Physique) in which there is a passage which I will write
+to you about as soon as I find time.
+I forgot to mention it to you on Thursday ; &
+so have ordered the Book to be sent to you, that
+I might write about it sometime.
+Believe me
+Yours very truly
+A. A. Lovelace
+              
+[146r]
+Ashley-Combe Weddy. 16th Novr
+[‘1842’ or ‘1847’ added by later reader]
+[I think this might date from earlier than 1842, as it contains material that seems to fit
+better with the earlier letters — I’ll try to slot it in]
+Dear Mr De Morgan. I am very much obliged
+for your long letter. The Formula in Peacock
+comes out quite correct now that I have writtendiff.coof(b−x)4 =4(b−x)3×(−1)=−4(b−x)3. It is odd that notwithstanding the caution you
+gave me in Town on this very point, I should have fallen into the trap. There is nothing like one’s own blunders after all for instruction.
+I do not however understand why example (19) page 4, has not come out wrong also in
+my working out. I enclose a copy of my
+solution, and it appears to me it ought to
+be wrong, because I surely should have had diff.coof(1−x)4 =4(1−x)3×(−1)=−4(1−x)3,whereas Ihavediff.coof(1−x)4 =4(1−x)3.
+On looking over my development again very
+carefully, I am inclined to think that my solution
+[146v] (1+x)2 × (7 + x), comes out right only because (1−x)5
+I have managed to make another blunder of a sign in the course of the proofs, which has corrected the first blunder. I therefore now write on the other side of the paper, what I think it should be.
+The note in page 2 I do not imagine to be of
+any consequence. It is on “rendering the Differentiation “of complicated Functions sometimes much easier” by means of three Theorems from Maclaurin’s Fluxions.
+Certainly had I thought a little
+more upon what I read some weeks ago, before
+I wrote my last letter to you, I should not
+have sent the question about du = φ(x) × dx [flourishes at tops of stems of ‘d’s, here and after].
+I [‘must have’ inserted] forgot exactly what a Differential Co-efficient
+means, when I did so. But how is it then
+that in your 1st Chapter of the Differential Calculus”
+there is no mention of the multiplication by dx?”
+ 
+I conclude that the real Differential Co-efficient is du = φ(x), and that Peacock’s solutions are”
+dx
+not strictly speaking Differential Co-efficients. ”
+I think pages 13 to 15 of your Elementary
+[147r] Illustrations bear considerably upon the observations
+in your letter, do they not?
+Your explanation of Euler’s proof of the Binomial
+Theorem is perfectly satisfactory to me. Unluckily
+I have not any Book here which contains the
+Theory of Combinations. I wanted to refer to
+this when reading page 215, as I have forgotten
+it in it’s [sic] particulars. However this can very
+well wait a short time, & I have only to take
+the Formula for Combinations for granted meanwhile. Thenecessityofthetruthof(1+x)n ×(1+x)m =(1+x)n+m for all values of n and m, since it is true
+when they are whole numbers, I shall probably
+see more clearly at some further time.
+I can explain exactly what my
+difficulty is in Chapter X. “For instance, if we “know that φ(xy) = x × φy, supposing this always “true, it is true when y = 1, which gives φ(x) = “= x × φ(1). But φ(1) is an independent quantity, “made by writing 1 instead of y in φ(y). Let us “call it c &c. ”
+It is this substitution of 1 and of c, and
+consequent ascertainment of the form which will [147v] satisfy the equation, which is all dark to me. It is ditto in lines 12, 13, & 14 from the top.
+I understand quite well I believe from
+“We have seen that if φx = cx &c”, all through the next page.
+That I do not comprehend at all the means of deducing from a Functional Equation the form which will satisfy it, is I think clear from
+my being quite unable to solve the example
+at the end of the Chapter “Shew that the equation “φ(x + y) + φ(x − y) = 2φx × φy is satisfied
+“by φx = 21 (ax + a−x)”. I have tried
+several times, substituting first 1 for x, then
+1 for y. but I can make nothing whatever
+of it, and I think it is evident there is
+   
+something that has preceded, which I have not understood. The 2nd example given for practice “Shew that φ(x + y) = φx + φy can “have no other solution than φx = ax”, I have not attempted.
+I have a question to ask upon page 229.
+“By extracting a sufficiently high root of z, we [148r] “can bring zm as near to 1 as we please, or “make zm − 1 as small as we please ; that is “(page 187) zm − 1 may be made as nearly equal “to the sum of the whole series as we please”.
+I cannot find what it is that is referred
+to in page 187 ; and Secondly, it appears to me somewhat of a contradiction that a quantity zm − 1 which can certainly be made as small as we please by the diminution of m, should
+become as near as we please to a fixed
+limit or sum (the log z I conclude is the
+sum of the series, referred to), since by continued diminution the quantity zm − 1 may become a great deal less than the sum of the Series, &
+keep receding from it.
+To return to Chapter X, there is one other
+thing in it that I do not understand. Page
+205, lines 5, 6, 7 from the bottom. It seems
+to me fallacious to substitute first one value
+0, for a letter ; & then another value, let y = −x, [148v] in the same equation & in a manner at the same time. How can the two suppositions
+consist together at all.
+I go on well with the Trigonometry, &
+have nearly finished the Number & Magnitude. I think there is another Erratum in page
+34 of the Trigonometry, line 13 from the bottom = OM · ON − NR · NP &c
+ON OP NP NO
+should be −NR · NP NP OP
+I am really ashamed to send you such troublesome letters.
+Believe me
+Yours most truly
+A. A. Lovelace
+       
+[149r]
+Ashley-Combe Novr 27th
+Dear Mr De Morgan. I have I believe made
+some little progress towards the comprehension of
+the Chapter on Notation of Functions, & I enclose
+you my Demonstration of one of the Exercises at
+the end of it : “Show that the equation φ(x + y) =
+“= φx + φy can be satisfied by no other solution
+“than φx = ax.” At the same time I am
+by no means satisfied that I do understand
+these Functional Equations perfectly well, because
+I am completely baffled by the other Exercise :
+“Shew that the equation φ(x + y) + φ(x − y) =
+“= 2φx × φy is satisfied by φx = 21 (ax + a−x)
+“for every value of a”.
+I do not know when I have been so tantalized
+by anything, & should be ashamed to say how
+much time I have spent upon it, in vain.
+[149v] These Functional Equations are complete Will-o’- -the-Wisps to me. The moment I fancy I have
+really at last got hold of something tangible
+& substantial, it all recedes further & further
+& vanishes again into thin air.
+But now for this perplexing φx = 12 (ax + a−x).
+I believe I have left no method untried ; but
+I cannot get further than as below, with any
+certainty :
+φ(x + y) + φ(x − y) = 2φx × φy ∵ 2φx = φ(x+y)+φ(x−y)
+φy
+Since x and y may have any values whatever,
+(at least such I conclude is of course intended), let
+y = 0. We have then 2φx = φ(x)+φ(x)
+φ(0)
+∵ 2φx × φ(0) = φ(x) + φ(x)
+or 2φx × φ(0) = 2φx
+φ(0)must=1,or=a0,sincea0 is
+the only function of 0 which can = 1
+I think so far is correct in itself, but whether
+[150r] it be the [‘right’ inserted] road to the rest is another question. At any rate, I have not succeeded in proving
+  
+it such. To assume that since φ(0) = a0,
+φ(x + y) = ax+y, φ(x − y) = ax−y, φy = ay
+appears to me scarcely warrantable ; and
+besides in that case it must be equally
+assumed that φx = ax, (there being the same
+ground for the one assumption as for the others),
+and we should then have,
+ax = ax+y+ax−y ay
+∵ax =ax+y +ax−y ay ay ∵ax =ax +ax−2y
+most clearly absurd, independent of it’s [sic] being discordant with the book.
+Once I thought I had hit on something very
+clever indeed, and wrote as follows :
+φ(x + y) = φ(x + y.1)
+= {φ(1)}x+y by equation (φa)n = φ(na)
+page 205, entirely forgetting that the φ of that equation had nothing whatever to do with the
+φ of any other equations ; (a disagreeable truth [150v] which did not occur to me until 24 hours later). I then had φ(x − y) = φ(x − y.1) = {φ(1)}x−y
+φ(y) = φ(y.1) = {φ(1)}y, and 2φx = {φ(1)}x+y+{φ(1)}x−y
+{φ(1)}y
+= {φ(1)}x+y + {φ(1)}x−y
+{φ(1)}y {φ(1)}y
+= {φ(1)}x + {φ(1)}x−2y, and supposing
+x = y, then 2φx = {φ(1)}x + 21 {φ(1)}−x
+or calling φ(1) = a, φx = 21 (ax + a−x)
+But besides my unwarrantable assumption of
+φ(x + y.1) = {φ(1)}x+y, there was this in the
+result which was unsatisfactory, that it was necessary to assume x = y, and the result seemed
+to hold good in that case alone. Also, when to verify, I tried x = 1, ∵ φ(1) = 21 (a1 + a−1),
+which ought to have come out a = a, I could
+make neither head or tail of it. Well, I
+abandoned this, & tried all sorts of other resources. [151r] I understand to work out something by means similar to those in page 205 and in the
+Problem I send ; but equally unsuccessfully.
+I also in equation (A) page 204, changed
+φ(x + y) into φ(x − y) and investigated this,
+    
+thinking I might derive a hint possibly from it.
+[something crossed out] In short, many & various are the experiments I have made, but I will not detail any
+more. Indeed I think you may be possibly
+heartily sick of what I have detailed. But
+I wished to show you that I have not failed
+from want of trying, at least ; & also to give
+you the chance of smiling at my expence [sic].
+I shall have to trouble you with another
+letter shortly, on other knotty points. Really I do not give you a Sinecure. Your letters are however well bestowed, in as far as the use
+they are of to me, can make them so, and
+the great encouragement that such assistance
+is to me to continue my Studies with zeal
+& spirit. We are to return to Surrey very
+[151v] soon. I expect to have occasion to trouble you again before we go, & after that I shall hope to see you & Mrs De Morgan in Town, where I intend to be for two or three days
+in about a fortnight.
+Yours very truly A. A. L
+
+[152r]
+Ockham Park Surrey
+Dear Mr De Morgan. I am indeed extremely
+obliged to you for all your late communications.
+In two or three days more, I shall have
+several observations & to send you in reply
+to some of them.
+My object in writing today, is to make another enquiry concerning the substitution of φ1(a + h) − φ1a for φ(a + h) − φa in page 100, for I perceive
+on carefully examining the passage, that I do
+not quite understand it
+φ1x = φx + C, which [‘last side’ inserted] means the Primitive Function [‘of φ′x’ inserted]
+and the Primitive Function means the Function which differentiated gives φ′x
+Therefore φ1(a + h) = φ(a + h) + C
+And φ1a = φa + C
+Consequently φ1(a + h) − φ1a = φ(a + h) + C − (φa + C)
+= φ(a + h) − φa [152v] This is my version of it. But you tell me,
+φ1(a + h) = φ(a + h) + C
+φ1a = φa, (which ought to be I say
+φ1a = φa + C) From which we should have,
+φ1(a + h) − φ1a = φ(a + h) + C − φa Consequently φ1(a + h) − φ1a is not equal
+to φ(a+h)−φa as is required to be proved, but is = φ(a + h) − φa + C.
+I cannot unravel this at all.
+Secondly: [something crossed out] I do not see why the Indefinite Integral only is = φx + C = Primitive Function.
+of φ′x
+The argument at the top of page 101 seems
+to [something crossed out] me to apply equally to the Definite Integral
+As follows : It is proved that
+         
+φ1(a + h) − φ1a = 􏰌 a+h φ′x.dx a
+φ1a is just as much here an arbitrary Constant as it is in φ1x − φ1a = 􏰌 x φ′x.dx
+a
+Therefore 􏰌 a+h φ′x.dx = φ1(a + h) + C1 a
+= φ(a + h) + C + C1
+= φ(a + h) + an arbitrary Constant [153r] just as with φ1x − φ1a = 􏰌 x φ′x.dx
+a
+Thirdly : With respect [‘to’ inserted] the assumption that when
+a is arbitrary, then any function of a, say φa,
+is also arbitrary or may be anything we please,
+seems to me not always valid.
+For instance if φa = a0, it must be
+always = 1. We may assume a = anything we
+like, but φa will not in this case be
+arbitrary.
+It is curious how many little things I [something crossed out] discover in this Chapter, which in looking back upon
+them, I find I have only half-understood.
+I shall be exceedingly obliged, if you
+can answer these points soon ; I think a
+word almost may explain them, & they rather annoy me.
+Believe me, with many thanks Yours very truly
+A. A. Lovelace
+     
+[154r]
+Ockham Park Ripley
+Surrey 14th Jany
+Dear Mr De Morgan
+It would give me
+great pleasure to see you
+again, & to have a chat
+with you. If therefore I
+am in Town on Tuesday
+week, (which is likely), do
+you think you could call
+on me at 11 o’clock.
+I should propose going to
+[154v] Gower St to see Mrs De
+Morgan, but on this
+occasion I should not have
+[something crossed out] time to go so far.
+If therefore you
+answer me affirmatively, I
+shall not write again unless
+I should be prevented from going.
+I have been doing little
+of late in Mathematics ;
+just amusing myself
+with Murphy’s Theory of Equations (in the Useful Knowledge) ; & looking into one or two other little
+matters, rather than
+[155r] studying them. So I have no very diligent reckoning
+to make you.
+My kind remembrances
+to Mrs De Morgan.
+Yours very truly A. A. Lovelace
+   
+[156r]
+St James’ Sqre Tuesday. 5 o’clock
+ P. S. Excuse my materials.
+Dear Mr De Morgan. In much haste, I write to tell you that I must adjourn
+the proposed engagement for Monday next, until Monday week ; owing to an unforeseen obstacle for next Monday afternoon. You have very probably already written
+to me ; & if so, I shall (to save you trouble) take it
+for granted if I do not hear, [156v] that the hour fixed will be for the Monday week instead.
+I was obliged to stay in
+Town last night, unexpectedly; but am just setting out..
+I was very glad to
+find Mrs De Morgan so
+well & cheerful, & moreover that she approved of a proposition I made her ; (not a proposition of our particular kind however).
+I remain
+Yours very truly
+A. A. L
+   
+[157r] East Horsely Park Ripley
+Surrey
+Dear Mr De Morgan
+In consequence of yr kind reply to my former note, Lord L think I had better send you the paper, (which has been put into type, tho’ not published).
+Should you be at
+leisure & disposed to
+look at it, you will
+at once see how much [157v] stuff there is in it, & of what a solid quality.
+Some few corrections are wanting, before it finally goes to proofs.
+There is also one single sentence, (I think in page 22), about Irish Priests & Douai, which must be altered or cut out, for a Roman Catholic Editor.
+Much of the Paper, tho’ on so dry a subject, is amusing enough. If you [158r] look at it, & should discover my inaccuracies or anything which might be made clearer, pray
+be kind enough to men= =tion it.
+I will not now detain you further.
+Believe me
+very faithfully yrs
+   
+A. A. Lovelace
+
+[159r] 10. St James’ Sqre Tuesdy Morning
+12 past 12 o’clock
+Dear Mr De Morgan. I
+am most particularly vexed
+& annoyed at finding
+that you have just been
+here, & are gone without
+[‘my’ inserted] seeing you. Owing to the message received by
+the carriage the other
+day, I had reserved
+this morning particularly
+[159v] for our affairs, & I
+cannot but think that
+either my footman must
+have blundered the
+matter & sent you away,
+or that there has been
+some misunderstanding or
+other. Your time is
+so valuable that it is
+without measure vexatious
+you should have come all
+the way here for nothing,
+& when I was especially
+waiting for you too.
+[160r] Now it does so happen
+quite by chance that I
+have this evening at
+liberty. May I come
+to Gower St between eight
+& nine therefore, & so
+repair the mistake of
+this morning? I am
+quite in a fuss about
+my mathematics, for I
+am in much want of a
+little lift at this
+moment ; & you know
+how I have my progress
+[160v] at heart.
+   
+I write in a great
+hurry ; & I only hope that such a contrariety will never happen again.
+You must forgive my writing in such a fuss ;
+but I cannot imagine
+how the thing has happened. Believe me
+Yours very truly A. A. Lovelace
+ 
+[161r] Dear Mr De Morgan Yes tomorrow
+morning between 12 past twelve & one o’clock will do. (Remember I write Tuesday Night).
+I am much provoked
+at my stupid servants’
+stupid blunder, but I
+[161v] believe the poor man
+meant to be highly
+discerning & well-judging.
+I was at the moment
+treating for an Opera
+Box for [‘the night of’ inserted] Rachel’s Benefit, which I conclude the
+footman thought a
+much more important
+matter than any
+spectacles in the world
+could [something crossed out] betoken. He is
+a new man, & does not
+know my people yet.
+[162r] In haste
+Yours most truly obliged A. Ada Lovelace
+Tuesday Night
+St James’ Sqre
+[162v] Augustus De Morgan Esqre 69. Gower St
+  
+[166r] Ockham Thursday
+Many thanks for the packet
+of yesterday morning. I shall
+write in reply to it tomorrow. I send today
+some Integral Developments (see pages 116, 117); &
+another of the Accelerating Force papers.
+Any hour you may appoint on Thursday Morning [something torn away] I will be ready. Shall I say 10 o’clock?
+[166v] [postmark?]
+    
+[168r] [In De Morgan’s hand] When an equation involves only two variables, it is easy enough to write all
+differential equations so as to contain nothing
+but differential coefficients; thus
+y=logx dy =1 dx x
+If we prefer to write dy = dx, it x
+must be under a new understanding. By dy, we mean the limit of ∆y, not
+dx ∆x
+any value which ∆y ever can have, but
+∆x
+that which it constantly tends towards,
+as ∆x is diminished without limit. But in dy = dx, we cannot by dy
+x
+and dx mean limits, for the limits are zeros; and 0 = x0 , though very true, is unmeaning
+What then do we mean by this When y = log x , dy = dx
+x
+we mean that ∆y = ∆x , as ∆x diminishes x
+without limit, not only diminishes without limit, but diminishes without limit as compared with ∆x or ∆y. So that, if we call it a, or if
+[168v]∆y−∆x =a x
+Then a is useless, and we might as
+well write 0. For since the processes of the differential calculus always terminate
+in taking limits of ratios and since ∆y − 1 = a
+∆x x ∆a
+(or some transformation of this sort) must come at last, our limiting equation
+must be
+dy−1=Limitofa =0 dxx ∆x
+The truth of every equation differentially written, as dy = p dx, is always absolutely speaking, only approximate: but the approximation is relatively
+closer and closer . Understand it as if it were
+dy = (p+λ)dx
+where λ diminishes with dx, so that
+the error made in dy by writing dy
+= p dx, namely λ dx, not only diminishes
+ 
+with dx, but becomes a smaller and smaller fraction of dx: because
+λ diminishes without limit
+[169r] All this is conveniently signified in the language of Leibnitz, namely, that when dx is infinitely small, dy − p dx
+is as nothing (or infinitely small) when compared with dx, or dy is (relatively to its own value) infinitely near to p dx.
+The differential might easily be
+avoided when there are only two variables, and even when there are more, provided we only want to use one independent variable at a time . Thus
+u = φ(x, y, z) may give the equations
+du=P, du=Q, du=R dx dy dz
+But when we want to make
+x, y, and z, all vary together,
+we have no notion of a differential
+coefficient attached to this simulta-
+neous variation, unless we suppose some
+one new variable on which x, y, and z
+all depend, and the variation of which
+sets them all varying together.
+[169v] If this new variable be t, and
+if x, y, and z be severally functions
+of t, we have then
+[in margin: ‘See chapter on Implicit differentiation’] d(u) =du ·dx +du[·]dy +du ·dz
+dt dx dt dy dt dz dt
+Thus if u = xy2ε2
+d(u) =y2ε2dx +2xyε2dy +xy2ε2dz dt dt dt dt
+  But observe that this makes x, y, and z, (which we want to be independent of one another) really functions of one another: thus if x = t2, y = log t, we must
+have y = log√x. We might it is
+true avoid this by the following suppo- sition. Let x, y, and z, instead of being given functions of t, be unassigned and
+
+arbitrary functions, which we can always
+make whatever functions we please. We can
+then really hold dx dy dz to be indepen- dt dt dt
+dent of one another, for it is always in our power to assign them any values we like.
+But this method would be awkward , and would put continual impediments in our
+way. It is better therefore to avoid that
+[170r] notation which while it makes the
+first step by supposing relations to exist between x, y, and z, immediately contradict that supposing by making these relations mean
+any relations.
+If in φ(x, yz) we suppose x, y, and z
+to be simultaneously altered into x + ∆x, y + ∆y, z + ∆z, then φ(x, y z) takes the value
+φ(x+∆x, y+∆y, z+∆z)
+which may be expounded as follows
+φ+ dφ∆x+ dφ∆y+ dφ∆z dx dy dz
++A∆x∆y + B∆y∆z + C∆z∆x +D∆x2 +E∆y2 +F∆z2
++ &c &c
+say
+φ + dφ ∆x + dφ ∆y + dφ ∆z + M
+If it be required that φ = constant, or φ = c we must have
+dφ ∆x + dφ ∆y + dφ ∆z + M = 0 dx dy dz
+Now if we were to leave out M, and say
+dφ ∆x + dφ ∆y + dφ ∆z = 0 dx dy dz
+we should of course commit an error:
+but it is one the magnitude of which
+relatively to ∆x, for instance, diminishes
+[170v] without limit as the increments ∆x, ∆y, ∆z, are diminished without limit. The considerations already given apply here again : because all the terms contain [sic] in M, diminish without limit as compared with those which
+are not [something crossed out] contained in M. This rejection of all terms
+dx dy dz
+When therefore I say that φ = c
+gives dφ .dx + dφ [.]dy + dφ .dz = 0 dx dy dz
+except those of the first order is always accompanied and
+
+I should, if asked whether this equation
+is absolutely true, answer no . If then asked why I write it, I should answer
+that it leads to truth , and for this
+reason that it is more and more nearly true as dx &c are diminished : not because
+dφdx+&c diminishesinthatcase,though dx
+undoubtedly it does so ; but because it diminishes as compared with dx, &c. Hence, when we form ratios and take their limits,
+it matters nothing, as to the results we obtain, whether we write
+dφ dx + &c = −M dx
+or dφ dx + &c = 0 dx
+marked by writing dx for ∆x, dy for ∆y, &c.
+  
+[171r]
+sin90 =
+sin30 = sin10 =
+sin50 = sin70 =
+sin(90◦ + 30◦ + 10◦) = sin(50◦ + 70◦) 􏰎 √ 􏰎 √ 􏰎 √
+ 111 
+(3+ 5)+ (5− 5) (3+ 5)+ 4 42
+1􏰎(5+√5)−1􏰎(3−√5) +1􏰎(5+√5)−1􏰎(3−√5)= 4444
+ 􏰎 √ 􏰎 √
+  11 
+(3+ 5)− (5−5) 4 4 
+1√2+ 1􏰎(3−√5) =
+1√ 21􏰎4√1􏰎√
+  (3+ 5)− (3− 5) 2􏰎􏰎2􏰎4􏰎
+2 =
+√√√√√
+14 (5+ 5)+14 (3− 5) 12 2+12 (3− 5)=12 (3+ 5)
+√2 + 􏰎(3 − √5) = 􏰎(3 + √5) [boxed formulae are circled and joined in original]
+  [171v] [blank]
+[172r] √2+􏰎(3−√5)=􏰎(3+√5)
+√2 √ 􏰎 √ 􏰓􏰏 √􏰔2 􏰓􏰏 √􏰔2
+(2)+22×(3−5)+ (3−5)= (3+5
+  √√√ 2+2 2(3− 5)+3− 5=3+ 5
+􏰏
+ √√ 2+ 2(3− 5=−2+2 5
+􏰏
+ 􏰏
+√√ 2(3− 5)=−1+ 5
+ √√ 6−2 5=+1−2 5+5
+[diagrams to right of above formulae in original] 1 √2 = 1 (+1 + √5) + 1
+ 2√ 4 √ 2 √ 2 2=+1+ 5+2=+3+ 5
+√ 4×2=9+2 5−5
+[above three lines scribbled out] √ sin60=1(1+ 5)
+4 sin20=14(−1+ 5)
+1 (1 + √5) = 1 (−1 + √5) + 1 4√4√2√
+1+ 5=−1+ 5+2=1+ 5
+[172v]sina2 =􏰏12R2 −21 cosa=􏰏12R2 ∓12R􏰎1−sin2a
+sina =±􏰏1R2∓R􏰎1−sin2a= 2√22√
+= ± 12 R2 + R sin a ∓ 21 R2 − R sin a
+1 R2 ∓ R 􏰎1 − sin2 a = 1 (R2 + R sin a) + 1 (R2 − R sin a) 2244
+√
+        
+−2× 1 × 1√R2 +Rsina×√R2 −Rsina 22
+1 R2 ∓ R 􏰎1 − sin2 a = 1 R2 + 1 R sin a + 1 R2 − 1 R sin a 224√44√4
+       ∓ R 􏰎1 − sin2 a = − 1 􏰎R4 − R2 sin2 a = 22
+∓ R 􏰎R2 − sin2 a 2
+−1 R2 +Rsina× R2 −Rsina
+√
+−R3 sina−R2 sin2 a
+2
+− 12 R4 + R3 sin a
+    
+[174r] [(mostly) in AAL’s hand]
+Theorem. Page 199.
+IfN beafunctionofxandy,giving dN =p+qdy dx dx
+then the equation du = V. dN is incongruous & dx.dy dx.dy
+self-contradictory, except upon the assumption that u is , as to x and y , a function of N ;
+or contains x and y only thro’ N.
+Let N = ψ(x, y) give y = χ(N, x) , and
+suppose , if possible , that the substitution of
+this value of y in u gives u = β(N, x) , x
+not disappearing with y . Then x and y
+varying
+du =dβ.dN+dβ.dN+dβ
+dx.dy dN dx dN dy dx
+[in above line, du is crossed through in pencil, and ‘1’ written above; dx.dy
+‘= du + du ’ added in pencil at end of line — in ADM’s hand?] dx dy
+=dβ ·􏰑dN +dN􏰒+dβ =dβ · dN +dβ = dN dx dy dx dN dx.dy dx
+= V. dN , which equation being dx.dy
+universal , is true on the supposition that x doesnotvary,orthat dβ =0. Thisgives dβ =V;
+dx dN or du =V dN +dβ =V dN
+dx.dy dx.dy dx dx.dy
+because dβ and V being independent of the variations dN
+&c,&c.Hencedβ =0always;orβdoesnot dx
+contain x directly, &c.
+I think the above is correct. I cannot see
+[174v] the use (page 200) of introducing t in
+the proof there given . Is it possible that
+I have committed an error in my original
+understanding of the ennunciation [sic] of the Theorem; & that the du [‘of the equation’ crossed out] and the dN of the equation du = V.dN , do not mean
+the du and dN derived from differentiating with respect to the quantities x and y, already introduced ; but with respect
+to [‘some’ crossed out] other given quantity?
+I suspect so .
+[the following appears underneath in pencil — still in Ada’s hand]
+u = β(N, x)
+du = dβ dN + dβ
+dx dN dx dx dnu =
+dx.dy
+   
+[175r] [in De Morgan’s hand] This complete differential of φ, as it is called namely
+dφ.dx + dφ.dy + dφ.dz dx dy dz
+is a perfectly distinct thing from dφ +dφ +dφ
+dx dy dz
+and also from d3φ dxdydz
+Read again page 86 when x is changed to end of 87
+page 198–199 & the references
+dφ dx is dφ 􏰐 But the first means the dφ which dx is caused by variation of x, and the
+dy
+dφdy is dφ second has the same reference to y.
+
+[176r] [diagram] (a − x)x ax − x2
+[further diagrams: one Pythagoras-related]
+[176v] [K ̈onigsberg bridges diagrams, some with labels in Babbage’s hand] [Pythagoras-related diagrams]
+[177r] [further Ko ̈nigsberg bridges diagrams and related jotting]
+[in Babbage’s hand] 1 No return 3
+5
+If there are an odd No of Bridges if you do not begin you must end in it
+2 No ending except 4 in island
+294 [written at 90◦, spanning bottom of 176v and 177r] 7 5 3 618
+[177v]
+sin 12 a = 􏰏 12 R2 − 21 R cos a
+forcosaput±􏰎R2 −sin2a
+sin 12a = 􏰏12R2 ∓ 21R􏰎R2 − sin2 a
+Let sin 21 a = 21 √R2 + R sin a ∓ 21 √R2 − R sin a
+(a±b)2 =a2 +b2 ±2ab (a − b) × (a + b)
+=a2 −b2
+      12 R2 ∓ 12 R􏰎R2 − sin2 a =
+=41R2+14Rsina +14R2−41Rsina∓2×12 ×21 R2+Rsina× R2−Rsina
+ √ √ ∓1R􏰎R2 −sin2a=∓1√R2 +Rsina×√R2 −Rsina
+=∓1􏰎R4 −R2sin2a=∓1R􏰎R2 −sin2a 22
+∓12R􏰎R2 − sin2 a = ∓12R􏰎R2 − sin2 a
+       22
+    
+[178] [in pencil down left-hand side] 25th Augst 1843
+u=R+X
+P = dR + dX dx dx
+dX =P−dR dx dx
+X = 􏰌 􏰊P − dR 􏰋 dx
+P=−√
+x2 x2+y2
+x2+y2 x
+−εx (εx +1)2
+x x x 2x Xx
+dx y2
+ R=
+1 εx +1
+√
+   −(ε +1)􏰍·ε +ε 2(ε X+1)
+ (εx +1)3 ε2x −εx
+(εx +1)3
+X
+ 
+[179] [in pencil down left-hand side] 25th Augst 1843
+x
+x+ x2 + x3 +···
+ 2 2.3 1
+1+ x2 +···
+0 φx φ′x 0 ψx ψ′x
+x1 εx−1 εx
+  12 x Co.ofx in x
+2 n
+= 1 co. of x2n in x
+ε 2 +1
+22n εx +1
+= 1 co. of x2n−1 in 1
+22n
+= 1 1
+εx +1
+d 2n−1 1
+ 22n 1.2.3...2n−1
+when x 
